@@ -2,6 +2,11 @@
 ## Stephanie Schefer
 ## Fall 2023
 
+## Idea
+- gather data
+- chart pops up
+- gets the data, processes it so it is chart ready
+
 ## Dataset Link
 https://datasetsearch.research.google.com/search?src=2&query=Online%20store%20customer%20data&docid=L2cvMTFqY2w0eGNweQ%3D%3D
 
