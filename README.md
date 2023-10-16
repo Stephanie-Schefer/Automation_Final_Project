@@ -1,4 +1,6 @@
 # Automation Final Project
+## Stephanie Schefer
+## Fall 2023
 
 ## Dataset Link
 https://datasetsearch.research.google.com/search?src=2&query=Online%20store%20customer%20data&docid=L2cvMTFqY2w0eGNweQ%3D%3D
