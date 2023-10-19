@@ -13,7 +13,7 @@ https://datasetsearch.research.google.com/search?src=2&query=Online%20store%20cu
 ## Project Plan
   As an entrepreneur and business analytics student, I want to analyze sales data to gain insights into consumer behaviors. I will apply the project workflow and documentation lessons taught in the Automation & Workflows class. Working towards this, I will be able to demonstrate findings to a wide audience which may include business analysts, data scientists, entrepreneurs, academics, students, and more. My analysis will be captured and displayed through publishing a website.
 
-  I am also particularly interested in discussing consumer behavior and preferences among female (large spender) digital natives in online retail spaces. There is a term "girl math" that refers to applying fuzzy and funny logic to rationalize why they are getting a good deal as far as their time, money, and convenience are concerned, compared to those who think or act differently from them. An example includes buying an expensive accessory but justifying it by putting a per day dollar amount after using such an item frequently over a certain period of time, such as a month or a year. 
+  I am also particularly interested in discussing consumer behavior and preferences among female (large-spender) digital natives in online retail spaces. There is a term "girl math" that refers to applying fuzzy and funny logic to rationalize why they are getting a good deal as far as their time, money, and convenience are concerned, compared to those who think or act differently from them. An example includes buying an expensive accessory but justifying it by putting a per day dollar amount after using such an item frequently over a certain period of time, such as a month or a year. 
 
 # Analytics will include the following
 - Demand Forecasting
@@ -26,7 +26,7 @@ https://datasetsearch.research.google.com/search?src=2&query=Online%20store%20cu
 ---------------------
 COLL 400 Designation:
 This is a COLL 400 course. It is suitable for the Data Application and Algorithms tracks. Specifically, a COLL 400 course:
-Will require students to take initiative in synthesis and critical analysis, to solve
+Will require students to take the initiative in synthesis and critical analysis, to solve
 problems in an applied and/or academic setting, to create original material or original scholarship, and to communicate effectively with a diversity of audiences.
 In this capstone course, you will synthesize and apply what you have learned from the Data
 Science curriculum as well as the broader COLL curriculum to:
