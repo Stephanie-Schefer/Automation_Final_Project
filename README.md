@@ -2,27 +2,6 @@
 ## Stephanie Schefer
 ## Fall 2023
 
-## Idea
-- gather data
-- chart pops up
-- gets the data, and processes it so it is chart-ready
-
-## Dataset Link
-https://datasetsearch.research.google.com/search?src=2&query=Online%20store%20customer%20data&docid=L2cvMTFqY2w0eGNweQ%3D%3D
-
-## Project Plan
-  As an entrepreneur and business analytics student, I want to analyze sales data to gain insights into consumer behaviors. I will apply the project workflow and documentation lessons taught in the Automation & Workflows class. Working towards this, I will be able to demonstrate findings to a wide audience which may include business analysts, data scientists, entrepreneurs, academics, students, and more. My analysis will be captured and displayed through publishing a website.
-
-  I am also particularly interested in discussing consumer behavior and preferences among female (large-spender) digital natives in online retail spaces. There is a term "girl math" that refers to applying fuzzy and funny logic to rationalize why they are getting a good deal as far as their time, money, and convenience are concerned, compared to those who think or act differently from them. An example includes buying an expensive accessory but justifying it by putting a per day dollar amount after using such an item frequently over a certain period of time, such as a month or a year. 
-
-# Analytics will include the following
-- Demand Forecasting
-- Customer Segmentation and Targeted Marketing
-- Customer Churn Prediction and Retention
-- Price Optimization
-- Predictive Analytics for Sales
-- Cluster Analysis
-- Comparative Analysis
 ---------------------
 COLL 400 Designation:
 This is a COLL 400 course. It is suitable for the Data Application and Algorithms tracks. Specifically, a COLL 400 course:
@@ -42,3 +21,62 @@ Science curriculum as well as the broader COLL curriculum to:
     – Delivering a talk or poster presentation to a larger audience (I and the DS faculty
     can help you coordinate this)
     – I’m open to other suggestions!
+---------------------
+
+
+## Overall Project Vision
+
+- gather data
+- chart pops up
+- gets the new data, and processes it so it is chart-ready
+
+## Dataset Link
+https://datasetsearch.research.google.com/search?src=2&query=Online%20store%20customer%20data&docid=L2cvMTFqY2w0eGNweQ%3D%3D
+
+## Project Plan
+  As an entrepreneur and business analytics student, I want to analyze sales data to gain insights into consumer behaviors. I will apply the project workflow and documentation lessons taught in the Automation & Workflows class. Working towards this, I will be able to demonstrate findings to a wide audience which may include business analysts, data scientists, entrepreneurs, academics, students, and more. My analysis will be captured and displayed through publishing a website.
+
+  I am also particularly interested in discussing consumer behavior and preferences among female (large-spender) digital natives in online retail spaces. There is a term "girl math" that refers to applying fuzzy and funny logic to rationalize why they are getting a good deal as far as their time, money, and convenience are concerned, compared to those who think or act differently from them. An example includes buying an expensive accessory but justifying it by putting a per day dollar amount after using such an item frequently over a certain period of time, such as a month or a year. 
+
+# Analytics will include the following
+
+- Customer Segmentation and Targeted Marketing
+    - Cluster Analysis
+    - Comparative Analysis
+- Customer Churn Prediction and Retention
+- Predictive Analytics for Sales
+    - Demand Forecasting
+ 
+# Data Simulation
+## Database Structure
+##### Customer Information Data Set
+- Customer ID
+- First Name
+- Last Name
+- Age
+- Gender (Female, Male, Non-Binary, Prefer Not to Say)
+- Zip Code Location
+- Custoemr Lifetime Value (CLV)
+- Customer Segment (Through analysis: high spenders, occasional buyers, loyal customers)
+- Feedback and Ratings
+
+##### Sales Transaction Data
+- Transaction ID
+- Transaction Date Time
+- Type (Sale or Refund)
+- Store ID
+- Customer ID
+- Purchase Total Amount
+- Payment Method (Credit Card, Debit Card, Gift Card, Cash)
+- Coupon/Promotion Code In Order
+
+##### Sales Transaction Details
+- Transaction ID
+- Product ID
+- Quantity Purchased
+- CouponCode
+- Product Details
+- Product ID
+- Product Description
+- Product Category (electronics, clothing, groceries)
+
