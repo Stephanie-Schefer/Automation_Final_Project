@@ -33,6 +33,20 @@ Science curriculum as well as the broader COLL curriculum to:
 ## Dataset Link
 https://datasetsearch.research.google.com/search?src=2&query=Online%20store%20customer%20data&docid=L2cvMTFqY2w0eGNweQ%3D%3D
 
+**Features**
+- Transaction Date
+- Transaction ID
+- Gender
+- Age
+- Marital Status
+- State Name
+- Segment
+- Employees Status
+- Payment Method
+- Referal
+- Amount Spent
+---------
+
 ## Project Plan
   As an entrepreneur and business analytics student, I want to analyze sales data to gain insights into consumer behaviors. I will apply the project workflow and documentation lessons taught in the Automation & Workflows class. Working towards this, I will be able to demonstrate findings to a wide audience which may include business analysts, data scientists, entrepreneurs, academics, students, and more. My analysis will be captured and displayed through publishing a website.
 
@@ -46,7 +60,37 @@ https://datasetsearch.research.google.com/search?src=2&query=Online%20store%20cu
 - Customer Churn Prediction and Retention
 - Predictive Analytics for Sales
     - Demand Forecasting
- 
+    
+# Steps
+#### 1. Data Cleaning and Preparation:
+Handle Missing Data: Check for missing values in columns and decide on an appropriate strategy to handle them, such as imputation or removal.
+Data Formatting: Ensure consistency in data formats, especially for dates and categorical variables.
+Feature Engineering: Create new features from existing ones if needed. For example, can calculate the average transaction amount per age group or segment.
+#### 2. Exploratory Data Analysis (EDA):
+Age and Gender Analysis: Understand the age and gender distribution of the customers. Visualize this data to identify the primary demographic.
+State-wise Analysis: Explore sales patterns based on different states. Identify regions with high and low sales.
+Payment Method Analysis: Analyze which payment methods are most popular among different demographic groups.
+Segment Analysis: Examine sales performance based on customer segments. Identify which segments contribute the most to revenue.
+#### 3. Customer Segmentation:
+Use techniques like clustering (K-means, hierarchical clustering) to segment customers based on their purchasing behavior.
+Analyze the spending patterns of different segments and tailor marketing strategies accordingly.
+#### 4. Consumer Behavior Analysis:
+Purchase Frequency: Analyze how often customers make purchases. Identify patterns, such as peak shopping days or months.
+Amount Spent Analysis: Investigate the distribution of amounts spent. Identify high spenders and analyze their characteristics and purchasing behaviors.
+Correlation Analysis: Explore correlations between variables. For instance, check if there's a correlation between age and amount spent.
+#### 5. Predictive Analytics:
+Churn Prediction: Predict which customers are likely to churn based on their transaction history and demographics.
+Sales Forecasting: Use historical transaction data to forecast future sales. Time series forecasting methods like ARIMA or machine learning algorithms can be applied.
+#### 6. Marketing Strategies:
+Referral Analysis: Determine the effectiveness of referral programs. Analyze which referral methods bring in the most valuable customers.
+Promotion Impact: Analyze the impact of promotions on sales. Identify which promotions result in increased sales and customer engagement.
+#### 7. Visualization and Reporting:
+Create interactive visualizations and dashboards to present the findings effectively.
+Prepare a summary report highlighting key insights, trends, and recommendations for business improvement.
+#### 8. Advanced Analysis:
+Predictive Modeling: Utilize machine learning algorithms (like Random Forest, Gradient Boosting, or Neural Networks) to predict customer behavior or forecast sales more accurately.
+
+---------------- 
 # Data Simulation
 ## Database Structure
 ##### Customer Information Data Set
