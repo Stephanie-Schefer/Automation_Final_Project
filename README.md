@@ -93,6 +93,7 @@ Predictive Modeling: Utilize machine learning algorithms (like Random Forest, Gr
 ---------------- 
 # Data Simulation
 ## Database Structure
+
 ##### Customer Information Data Set
 - Customer ID
 - First Name
@@ -100,27 +101,28 @@ Predictive Modeling: Utilize machine learning algorithms (like Random Forest, Gr
 - Age
 - Gender (Female, Male, Non-Binary, Prefer Not to Say)
 - Zip Code Location
-- Custoemr Lifetime Value (CLV)
+- Customer Lifetime Value (CLV)
 - Customer Segment (Through analysis: high spenders, occasional buyers, loyal customers)
 - Feedback and Ratings
 
 ##### Sales Transaction Data
 - Transaction ID
 - Transaction Date Time
-- Type (Sale or Refund)
+- **Type (Sale or Refund)**
 - Store ID
 - Customer ID
 - Purchase Total Amount
-- Payment Method (Credit Card, Debit Card, Gift Card, Cash)
+- **Payment Method (Credit Card, Debit Card, Gift Card, Cash)**
 - Coupon/Promotion Code In Order
 
 ##### Sales Transaction Details
 - Transaction ID
-- Product ID
+- **Product ID**
 - Quantity Purchased
-- CouponCode
-- Product Details
+- **CouponCode**
+
+##### Product Details
 - Product ID
 - Product Description
 - Product Category (electronics, clothing, groceries)
-
+- Price
