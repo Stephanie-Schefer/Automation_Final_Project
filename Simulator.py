@@ -63,7 +63,7 @@ def save_data_to_csv(data, filename_prefix, directory="Data"):
     print(f"Data saved to {file_path}")
    
  # @staticmethod
-def delete_sim_files(simulation_versions=None, directory='Data'):
+def delete_sim_files(simulation_versions=None, directory='Data\Simulations'):
     files_to_delete=[]
 
     # get all files in directory
@@ -256,7 +256,7 @@ class SalesGenerator:
         else:
             return None
     
-    def get_most_recent_simulation_number(self, directory="Data"):
+    def get_most_recent_simulation_number(self, directory="Data\Simulations"):
         files = os.listdir(directory)
         simulation_numbers = []
 
@@ -284,8 +284,8 @@ class SalesGenerator:
         transactions_filename = f"transactions_s{simulation_number}_{len(transactions_df)}"
         transactions_details_filename = f"transactions_details_s{simulation_number}_{len(transaction_details_df)}"
 
-        save_data_to_csv(transactions_df, filename_prefix=transactions_filename, directory="Data")
-        save_data_to_csv(transaction_details_df, filename_prefix=transactions_details_filename, directory="Data")
+        save_data_to_csv(transactions_df, filename_prefix=transactions_filename, directory="Data\Simulations")
+        save_data_to_csv(transaction_details_df, filename_prefix=transactions_details_filename, directory="Data\Simulations")
         print('saved files')
         return None
     
