@@ -26,25 +26,14 @@ Science curriculum as well as the broader COLL curriculum to:
 
 ## Overall Project Vision
 
-- gather data
-- chart pops up
-- gets the new data, and processes it so it is chart-ready
+- simulate data
+    - customers and their categories and identifying information
+    - products and their categories
+    - sales transactions
+- chart pops up with product category distributions
+- machine learning to identify impulse purchases
 
-## Dataset Link
-https://datasetsearch.research.google.com/search?src=2&query=Online%20store%20customer%20data&docid=L2cvMTFqY2w0eGNweQ%3D%3D
-
-**Features**
-- Transaction Date
-- Transaction ID
-- Gender
-- Age
-- Marital Status
-- State Name
-- Segment
-- Employees Status
-- Payment Method
-- Referal
-- Amount Spent
+## 
 ---------
 
 ## Project Plan
@@ -101,9 +90,8 @@ Predictive Modeling: Utilize machine learning algorithms (like Random Forest, Gr
 - Age
 - Gender (Female, Male, Non-Binary, Prefer Not to Say)
 - Zip Code Location
-- Customer Lifetime Value (CLV)
-- Customer Segment (Through analysis: high spenders, occasional buyers, loyal customers)
-- Feedback and Ratings
+- Buyer Habit (Impulse and Routine)
+- Buying Spending (High, Medium, or Low Spender)
 
 ##### Sales Transaction Data
 - Transaction ID
