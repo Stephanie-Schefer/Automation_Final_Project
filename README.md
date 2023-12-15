@@ -138,8 +138,9 @@ The following database is created throughout the project.
 ##### Sales Transaction Details
 - Transaction ID
 - **Product ID**
-- Quantity Purchased......................... (consolidate table after the dataset)
-
+- Product Price
+- Product Sale
+- Product Display
 ##### Product Details
 - Product ID
 - Product Category (electronics, clothing, groceries)
