@@ -1,1001 +1,1001 @@
-Customer_ID,First_Name,Last_Name,Age,Gender,Location,Buyer_Habit,Buyer_Spending
-0001,Flynn,King,52,Male,44057,routine,heavy
-0002,Terry,Hall,61,Male,83855,routine,moderate
-0003,Gene,Foster,28,Male,21703,routine,heavy
-0004,Corey,Bailey,83,Male,98262,routine,moderate
-0005,Murphy,Campbell,63,Male,51020,routine,heavy
-0006,Aspen,Clark,26,Male,92276,impulse,moderate
-0007,Flynn,Edwards,20,Female,52170,impulse,moderate
-0008,Indigo,Evans,43,Female,68417,routine,heavy
-0009,Ramsey,Smith,65,Male,61265,impulse,moderate
-0010,Eddie,Carter,83,Non-Binary,97430,routine,heavy
-0011,Finley,Young,45,Male,78672,routine,moderate
-0012,Kyle,Henderson,43,Prefer Not To Say,92115,routine,heavy
-0013,Jean,Simmons,42,Male,33034,routine,moderate
-0014,Kit,Gonzales,29,Female,98045,routine,moderate
-0015,Stevie,Martinez,22,Female,30288,routine,moderate
-0016,Windsor,Ward,65,Female,18327,impulse,moderate
-0017,Nico,Wood,54,Prefer Not To Say,15423,routine,moderate
-0018,Tori,Jones,61,Male,26412,impulse,heavy
-0019,Lennon,Smith,32,Prefer Not To Say,33442,impulse,moderate
-0020,Athena,Wilson,60,Male,99167,routine,moderate
-0021,Skye,Murphy,65,Male,54948,routine,heavy
-0022,Royal,Ramirez,63,Male,33859,routine,heavy
-0023,Brooke,Williams,60,Female,63940,impulse,heavy
-0024,Carson,Cooper,38,Male,99519,routine,moderate
-0025,Loren,Taylor,40,Female,18505,impulse,moderate
-0026,Morgan,Adams,64,Female,22511,routine,heavy
-0027,Terry,Phillips,32,Female,12580,routine,moderate
-0028,Nevada,Cox,42,Female,16621,routine,moderate
-0029,Marley,Russell,53,Male,63130,routine,moderate
-0030,Brooks,Patterson,68,Male,88351,routine,moderate
-0031,Carey,Ramirez,32,Male,43761,routine,moderate
-0032,Sasha,Simmons,38,Male,89825,routine,light
-0033,Jean,Cooper,30,Male,17074,routine,moderate
-0034,Jordan,Howard,36,Male,08072,routine,moderate
-0035,Aspen,Miller,51,Male,68873,routine,heavy
-0036,Logan,Foster,69,Prefer Not To Say,43804,routine,moderate
-0037,Toby,Wilson,44,Female,73063,routine,moderate
-0038,Eden,Ross,46,Male,43315,routine,moderate
-0039,Ari,Watson,45,Female,81024,routine,heavy
-0040,Salem,Coleman,52,Male,92251,routine,moderate
-0041,Tatum,Hughes,25,Male,57069,impulse,moderate
-0042,Cameron,Patterson,33,Female,23083,impulse,moderate
-0043,Ellison,Kelly,53,Female,72855,routine,moderate
-0044,Tate,Scott,47,Male,02841,routine,moderate
-0045,Billy,Gray,35,Prefer Not To Say,96137,impulse,moderate
-0046,Peace,Coleman,19,Female,56310,routine,moderate
-0047,Delta,Ward,66,Female,40508,impulse,heavy
-0048,Brooklyn,Russell,21,Female,86431,routine,heavy
-0049,Adrian,Simmons,24,Female,55434,routine,moderate
-0050,Campbell,Wilson,56,Male,04064,impulse,heavy
-0051,Gabriel,Cox,30,Male,31020,impulse,moderate
-0052,Sunny,Martin,48,Male,85016,routine,heavy
-0053,Nicky,Alexander,80,Female,22968,routine,moderate
-0054,Rayne,Hughes,73,Female,53516,routine,heavy
-0055,Brent,Carter,59,Male,50124,routine,moderate
-0056,Lennox,Cooper,78,Prefer Not To Say,30582,routine,heavy
-0057,Paris,Allen,59,Non-Binary,67051,impulse,light
-0058,Teri,Campbell,73,Female,61072,routine,moderate
-0059,Terry,Jenkins,53,Female,15482,impulse,heavy
-0060,Ramsey,Garcia,24,Female,51544,routine,moderate
-0061,Sidney,Gray,71,Male,37356,routine,moderate
-0062,Nevada,Powell,18,Female,27617,routine,moderate
-0063,Winter,White,61,Male,23801,impulse,moderate
-0064,Quinn,Bryant,62,Female,61374,routine,moderate
-0065,Peyton,Ramirez,64,Male,04649,impulse,moderate
-0066,Ryan,Hernandez,30,Female,15678,impulse,moderate
-0067,Cameron,Turner,39,Non-Binary,10994,routine,heavy
-0068,Tristan,Miller,38,Male,12570,impulse,moderate
-0069,Ray,Adams,26,Female,17054,routine,moderate
-0070,Sidney,Miller,43,Prefer Not To Say,56524,impulse,moderate
-0071,Morgan,Richardson,26,Female,72564,routine,heavy
-0072,Bowie,Morris,32,Female,72863,routine,moderate
-0073,Lane,Powell,27,Female,56146,routine,light
-0074,Ariel,Edwards,59,Male,68413,routine,moderate
-0075,Charley,Edwards,41,Male,70443,routine,moderate
-0076,Andie,Thompson,66,Male,63962,routine,moderate
-0077,JanÂ,Murphy,43,Female,35114,routine,moderate
-0078,Jude,Sanders,54,Male,45720,routine,moderate
-0079,Chance,Turner,67,Female,67232,routine,moderate
-0080,Kaden,Johnson,41,Female,67131,routine,light
-0081,Delta,Smith,36,Female,16655,routine,moderate
-0082,Leslie,Young,77,Female,97135,routine,heavy
-0083,Wesley,Wright,56,Prefer Not To Say,61053,routine,heavy
-0084,Sutton,Collins,35,Male,84119,routine,moderate
-0085,Roan,Anderson,36,Female,72857,impulse,moderate
-0086,Bowie,Johnson,53,Female,40022,impulse,moderate
-0087,Bailey,Coleman,72,Female,63457,routine,moderate
-0088,Jordan,Patterson,64,Prefer Not To Say,55741,routine,heavy
-0089,Paisley,Thomas,66,Male,51002,routine,moderate
-0090,Tennessee,Collins,50,Male,67423,routine,moderate
-0091,Bevan,Brown,38,Female,72926,routine,moderate
-0092,Britton,Garcia,39,Male,04952,impulse,moderate
-0093,Cassidy,Martinez,65,Female,64485,impulse,heavy
-0094,Raphael,Gonzales,54,Female,12786,routine,moderate
-0095,Wilder,Moore,32,Male,85739,routine,heavy
-0096,Ezra,Griffin,52,Female,82718,routine,moderate
-0097,Mackenzie,Peterson,49,Male,49870,routine,moderate
-0098,Raleigh,Walker,28,Female,46077,routine,moderate
-0099,Billy,Diaz,27,Female,77453,routine,moderate
-0100,Riley,Long,74,Non-Binary,28652,routine,moderate
-0101,Finn,Rogers,42,Male,13752,impulse,moderate
-0102,Jean,Roberts,19,Female,92691,routine,moderate
-0103,Sterling,Adams,81,Female,45069,routine,moderate
-0104,Alex,Bailey,52,Female,18602,routine,moderate
-0105,Rayne,Kelly,24,Female,40346,impulse,heavy
-0106,Sloane,Patterson,35,Male,22903,routine,moderate
-0107,Umber,Alexander,84,Male,95928,routine,heavy
-0108,Perry,Roberts,59,Male,72835,routine,moderate
-0109,Ariel,Roberts,56,Female,63934,impulse,heavy
-0110,Brady,White,58,Male,64016,routine,moderate
-0111,Maxwell,Moore,41,Male,51447,routine,moderate
-0112,Chance,Clark,77,Prefer Not To Say,72473,routine,light
-0113,Roan,Henderson,63,Male,76596,routine,moderate
-0114,Sailor,Reed,36,Prefer Not To Say,14721,routine,moderate
-0115,Caelan,Green,59,Female,95938,routine,heavy
-0116,Emory,Sanchez,49,Female,11378,routine,moderate
-0117,Regan,Jones,56,Male,95004,routine,moderate
-0118,Roan,Cook,53,Male,56751,impulse,heavy
-0119,Ryan,Brooks,53,Female,75942,routine,moderate
-0120,Keely,Murphy,20,Female,43521,impulse,moderate
-0121,Lou,Griffin,25,Female,72108,routine,light
-0122,Baker,Patterson,58,Male,31781,impulse,light
-0123,Blaine,Garcia,30,Female,70772,impulse,moderate
-0124,Arden,Baker,66,Female,72761,routine,heavy
-0125,Leighton,Lopez,77,Female,99827,routine,heavy
-0126,Montana,Evans,19,Female,50158,routine,moderate
-0127,Sam,Powell,77,Female,46766,impulse,moderate
-0128,Dylan,Lewis,22,Female,51111,routine,moderate
-0129,Val,Hayes,61,Male,48841,routine,moderate
-0130,Charlie,Rodriguez,44,Female,14706,routine,moderate
-0131,Loren,Martinez,49,Male,34987,routine,moderate
-0132,Brett,Cox,38,Male,38112,impulse,heavy
-0133,Cassidy,Parker,25,Male,55347,routine,moderate
-0134,Jody,Garcia,67,Male,54136,impulse,moderate
-0135,Val,Reed,84,Male,37317,routine,moderate
-0136,Bailey,Gonzalez,61,Male,47525,routine,heavy
-0137,Genesis,Patterson,75,Female,47849,routine,moderate
-0138,Brent,Long,20,Non-Binary,68322,impulse,moderate
-0139,Venice,Powell,19,Male,12852,routine,moderate
-0140,Jamie,Morgan,61,Prefer Not To Say,31836,impulse,heavy
-0141,Roan,Watson,19,Female,67673,routine,moderate
-0142,Nevada,Rivera,52,Male,32811,routine,moderate
-0143,Remy,Davis,47,Male,05653,routine,light
-0144,Umber,Butler,25,Female,57039,impulse,heavy
-0145,Hunter,Clark,39,Female,64870,impulse,moderate
-0146,Haven,Griffin,61,Female,68164,routine,heavy
-0147,Robyn,Thomas,75,Male,57022,impulse,moderate
-0148,Storm,Peterson,53,Male,43543,impulse,moderate
-0149,Ocean,Hill,48,Male,56723,routine,moderate
-0150,Jules,Taylor,64,Male,57334,impulse,moderate
-0151,Linden,Hall,72,Male,73010,impulse,heavy
-0152,Remy,Parker,79,Male,24861,routine,moderate
-0153,Rory,Cook,47,Female,87933,routine,moderate
-0154,Mackenzie,Powell,72,Non-Binary,32009,impulse,moderate
-0155,Kyle,Simmons,33,Male,77971,routine,moderate
-0156,Leighton,Bennett,29,Non-Binary,17049,routine,moderate
-0157,Emory,Allen,34,Male,99585,routine,moderate
-0158,Robyn,Barnes,33,Female,79346,routine,heavy
-0159,Mckenna,Johnson,29,Male,26055,impulse,moderate
-0160,Harley,Gray,25,Female,62692,routine,moderate
-0161,Caelan,Ross,20,Prefer Not To Say,29635,routine,moderate
-0162,Tennessee,Ward,33,Female,61115,routine,moderate
-0163,Wynn,Peterson,47,Male,59487,routine,moderate
-0164,Harley,Thompson,40,Female,93701,routine,moderate
-0165,Finn,Cook,22,Male,80487,routine,heavy
-0166,Harley,Murphy,82,Female,43320,routine,moderate
-0167,Delta,Stewart,47,Female,44606,routine,moderate
-0168,Montana,Anderson,38,Male,02536,impulse,moderate
-0169,Harley,Clark,39,Female,52135,impulse,moderate
-0170,Adrian,Anderson,49,Female,21612,routine,moderate
-0171,Jayden,Thompson,50,Male,94130,routine,light
-0172,Reed,Kelly,33,Female,98354,routine,moderate
-0173,Campbell,Robinson,55,Male,59525,routine,heavy
-0174,Remington,Diaz,31,Female,67337,routine,moderate
-0175,Remy,Gray,53,Female,33973,impulse,moderate
-0176,Jaden,Griffin,40,Female,18015,routine,moderate
-0177,Jayden,Ramirez,83,Female,98288,impulse,moderate
-0178,Cameron,Rogers,19,Female,78118,routine,moderate
-0179,Mackenzie,Sanchez,82,Male,07661,routine,light
-0180,Rayne,Wright,84,Female,04940,routine,moderate
-0181,Leighton,James,69,Male,17901,routine,heavy
-0182,Ocean,Richardson,79,Female,43018,impulse,moderate
-0183,Shae,Thompson,40,Male,44503,routine,moderate
-0184,Parker,Collins,43,Male,07041,routine,moderate
-0185,Milan,Phillips,72,Female,98416,routine,moderate
-0186,Jack,Diaz,23,Male,06118,routine,moderate
-0187,Sloane,Roberts,52,Female,60156,routine,moderate
-0188,Windsor,Bennett,39,Male,64123,routine,moderate
-0189,Tristan,Griffin,60,Male,53097,routine,heavy
-0190,Evelyn,Green,32,Female,06380,routine,moderate
-0191,Ocean,Cook,77,Male,45311,routine,moderate
-0192,Sage,Henderson,29,Male,12580,routine,light
-0193,Kelly,Green,66,Female,05651,routine,moderate
-0194,Erin,Green,59,Male,49037,routine,moderate
-0195,Paisley,Clark,55,Female,30609,routine,moderate
-0196,Jackie,Parker,62,Male,68362,routine,light
-0197,Montana,Smith,52,Male,87025,impulse,moderate
-0198,Storm,Flores,47,Female,22724,routine,heavy
-0199,Kerry,Price,47,Male,99632,impulse,moderate
-0200,Sidney,Lee,23,Male,27822,impulse,moderate
-0201,Kennedy,Lewis,84,Male,22572,routine,moderate
-0202,Kerry,Reed,24,Male,55013,routine,moderate
-0203,Owen,Robinson,69,Female,26581,impulse,moderate
-0204,Jamie,Martin,31,Male,73719,impulse,light
-0205,Blue,Williams,32,Female,74801,impulse,heavy
-0206,JanÂ,Walker,38,Female,36547,routine,moderate
-0207,Teagan,Ward,52,Male,78164,impulse,moderate
-0208,Kylar,Gonzales,83,Non-Binary,60446,impulse,moderate
-0209,Wren,Griffin,19,Male,43436,routine,heavy
-0210,Ezra,Thomas,52,Prefer Not To Say,23840,routine,heavy
-0211,Tanner,Edwards,37,Male,86409,routine,moderate
-0212,Sidney,Walker,27,Female,28573,impulse,moderate
-0213,Kelly,Kelly,42,Female,37160,routine,moderate
-0214,Hadley,King,83,Male,57531,routine,moderate
-0215,Carter,Price,42,Female,76629,routine,moderate
-0216,Adrian,Parker,71,Female,84722,routine,moderate
-0217,Skylar,Adams,50,Male,33610,routine,moderate
-0218,Kai,Watson,53,Male,58029,impulse,moderate
-0219,Blair,Ramirez,31,Female,60442,routine,moderate
-0220,Leighton,Young,82,Female,35980,routine,heavy
-0221,Andie,Thomas,71,Prefer Not To Say,47989,routine,heavy
-0222,Robyn,Bennett,69,Female,33319,impulse,moderate
-0223,Ezra,Perez,20,Prefer Not To Say,12025,impulse,moderate
-0224,Kennedy,Hughes,58,Female,96929,routine,moderate
-0225,Peyton,Phillips,23,Male,26164,impulse,moderate
-0226,Jean,Wilson,42,Male,55713,impulse,moderate
-0227,Kyle,Bryant,30,Female,77640,routine,light
-0228,Campbell,Stewart,25,Female,02114,routine,moderate
-0229,Hudson,Roberts,38,Male,56443,routine,moderate
-0230,Lennon,Patterson,42,Male,14173,routine,light
-0231,Haven,Perez,62,Prefer Not To Say,48720,routine,moderate
-0232,Dallas,Lopez,77,Female,12405,impulse,light
-0233,Harley,Scott,29,Male,18946,impulse,light
-0234,Francis,Reed,49,Female,59743,routine,moderate
-0235,Skylar,Turner,30,Male,36758,routine,moderate
-0236,Riley,Flores,48,Male,27549,routine,moderate
-0237,Hadley,Thomas,37,Male,75246,impulse,moderate
-0238,Ezra,Harris,35,Male,98547,routine,moderate
-0239,Kylin,Kelly,77,Female,36105,routine,heavy
-0240,Noel,Cook,80,Male,04635,routine,moderate
-0241,Leslie,Cook,23,Female,33473,routine,moderate
-0242,Peyton,Young,49,Female,70358,routine,heavy
-0243,Lonnie,Cooper,60,Male,74633,routine,heavy
-0244,Lennon,Taylor,19,Female,18071,routine,heavy
-0245,Clay,Campbell,77,Female,53572,impulse,moderate
-0246,Wesley,Hill,40,Female,50616,routine,light
-0247,Tori,Parker,48,Male,78416,routine,light
-0248,Jordan,Morris,22,Female,33605,impulse,moderate
-0249,Noelle,Cook,51,Female,99634,routine,moderate
-0250,Jamie,Powell,27,Male,28684,routine,moderate
-0251,Bevan,Long,19,Male,03904,routine,moderate
-0252,Marlow,Miller,28,Female,81430,routine,moderate
-0253,Athena,White,67,Female,92335,impulse,heavy
-0254,Ryder,Mitchell,48,Male,86343,routine,light
-0255,Leah,Miller,73,Female,91321,routine,moderate
-0256,Blake,Moore,26,Male,42764,routine,moderate
-0257,River,Hernandez,38,Female,78231,routine,moderate
-0258,Brooks,Scott,45,Male,22124,routine,moderate
-0259,Tate,Kelly,79,Female,49241,routine,moderate
-0260,Umber,Patterson,24,Male,86507,routine,moderate
-0261,Avis,Foster,33,Male,95559,routine,heavy
-0262,Rene,Turner,21,Male,39097,impulse,moderate
-0263,Tori,Bryant,21,Male,07002,routine,moderate
-0264,Venice,Gonzales,57,Female,92555,routine,moderate
-0265,Erin,Robinson,34,Male,56588,impulse,moderate
-0266,Val,Diaz,69,Female,29117,routine,moderate
-0267,Kennedy,Evans,69,Male,41052,impulse,moderate
-0268,Ainsley,Kelly,53,Male,13732,impulse,moderate
-0269,Billy,Parker,55,Male,73858,routine,moderate
-0270,Nico,White,67,Male,53003,impulse,moderate
-0271,Brooke,Rivera,80,Male,57321,impulse,moderate
-0272,Arya,Rogers,80,Male,67110,impulse,heavy
-0273,Mackenzie,Diaz,79,Female,40740,routine,moderate
-0274,Reed,Sanders,24,Male,78162,impulse,light
-0275,Leah,Hall,44,Female,53530,routine,moderate
-0276,Briar,Griffin,31,Female,47112,impulse,heavy
-0277,Alfie,Williams,22,Male,87064,routine,moderate
-0278,Ezra,Garcia,72,Female,74050,routine,heavy
-0279,Robyn,Lee,19,Prefer Not To Say,92064,routine,moderate
-0280,Blair,Clark,79,Female,48197,routine,light
-0281,Tristan,Washington,38,Female,82434,routine,moderate
-0282,Mckenzie,Ramirez,38,Male,65061,routine,moderate
-0283,Emery,Patterson,27,Female,30581,routine,light
-0284,Ezra,Robinson,75,Female,14075,impulse,light
-0285,Morgan,Harris,56,Female,79412,routine,moderate
-0286,Haven,Jones,22,Prefer Not To Say,30277,routine,moderate
-0287,Nicky,Foster,82,Male,40347,routine,moderate
-0288,Skye,Long,30,Male,70356,routine,moderate
-0289,Lennon,Reed,70,Female,71964,routine,moderate
-0290,Spencer,Jackson,62,Female,01562,routine,moderate
-0291,Jamie,Turner,49,Male,71972,impulse,moderate
-0292,Ash,Richardson,53,Male,16335,impulse,moderate
-0293,True,Campbell,77,Male,73755,impulse,moderate
-0294,Remi,Lewis,28,Male,60041,routine,moderate
-0295,Campbell,Henderson,80,Female,42060,routine,moderate
-0296,Carroll,Ramirez,38,Female,76251,routine,moderate
-0297,MadisonÂ,Diaz,69,Male,66856,routine,heavy
-0298,Tristan,Lewis,72,Male,78731,routine,moderate
-0299,Harlow,Cox,43,Male,67530,routine,moderate
-0300,Wallace,Bailey,51,Male,73127,routine,moderate
-0301,Kylar,Jackson,69,Female,31625,routine,moderate
-0302,James,Jackson,69,Prefer Not To Say,29046,routine,moderate
-0303,Lake,Evans,46,Female,35098,routine,moderate
-0304,Tobin,Cooper,55,Male,44490,routine,heavy
-0305,Francis,Alexander,59,Female,04453,routine,moderate
-0306,Wyatt,Diaz,38,Female,30250,routine,moderate
-0307,Sean,Robinson,59,Female,35054,routine,moderate
-0308,Marlow,Allen,30,Female,38463,routine,moderate
-0309,Blue,Murphy,81,Male,96774,impulse,light
-0310,Loren,Bennett,34,Male,36742,routine,moderate
-0311,Shae,Foster,26,Male,87068,impulse,heavy
-0312,Avery,Bennett,58,Male,02025,routine,moderate
-0313,Arden,Watson,18,Male,12836,routine,heavy
-0314,Blaine,Campbell,19,Female,85352,routine,light
-0315,Maddox,James,77,Female,77598,impulse,moderate
-0316,Ashton,Taylor,65,Female,20165,routine,moderate
-0317,Tate,Bailey,46,Male,62312,routine,moderate
-0318,Keegan,Reed,27,Prefer Not To Say,92356,impulse,moderate
-0319,Keely,Perry,75,Non-Binary,74107,routine,moderate
-0320,Ellison,Brown,77,Female,70053,routine,heavy
-0321,Wallace,Ross,38,Prefer Not To Say,89411,routine,moderate
-0322,Ramsey,Gonzales,45,Female,44053,impulse,heavy
-0323,Brooks,King,51,Prefer Not To Say,16255,routine,light
-0324,Kylin,Williams,25,Male,16616,routine,light
-0325,Monroe,Hall,76,Male,07420,routine,moderate
-0326,Chance,White,66,Male,38255,routine,moderate
-0327,Nevada,Bailey,34,Male,97367,impulse,moderate
-0328,Jade,Jenkins,77,Male,33176,impulse,moderate
-0329,Kit,Evans,62,Female,40387,routine,moderate
-0330,Carroll,Bennett,49,Female,15559,routine,moderate
-0331,Mckenna,Garcia,61,Female,59201,impulse,moderate
-0332,Loren,Reed,82,Male,49302,impulse,moderate
-0333,Terry,Hernandez,25,Female,12835,routine,moderate
-0334,Campbell,Ross,60,Female,65650,impulse,light
-0335,Finn,Peterson,18,Male,33585,impulse,light
-0336,Tate,Mitchell,68,Female,94531,routine,heavy
-0337,Cameron,Green,41,Male,18421,impulse,heavy
-0338,Carter,Harris,41,Male,04967,routine,light
-0339,Genesis,King,34,Non-Binary,78215,routine,light
-0340,Alex,Hughes,22,Male,93635,routine,heavy
-0341,Flynn,Jenkins,37,Female,34442,routine,moderate
-0342,Nolan,Thomas,38,Female,29651,routine,moderate
-0343,Sydney,Kelly,75,Female,97709,routine,moderate
-0344,Brighton,Garcia,48,Male,95619,routine,moderate
-0345,Kelly,Price,28,Male,25841,routine,heavy
-0346,Tennyson,Lee,69,Male,14874,routine,light
-0347,Jackie,Lopez,32,Female,62325,routine,moderate
-0348,Gabriel,Robinson,24,Male,57381,routine,moderate
-0349,Leah,James,45,Male,32825,impulse,moderate
-0350,Kennedy,Wood,68,Prefer Not To Say,52001,routine,moderate
-0351,Kelsey,Allen,75,Female,37932,impulse,moderate
-0352,Hudson,Hughes,22,Male,96748,routine,heavy
-0353,Toni,Anderson,22,Female,47342,routine,moderate
-0354,Ellison,Bennett,25,Female,43207,routine,moderate
-0355,Carroll,Nelson,81,Male,20646,routine,heavy
-0356,Ripley,Griffin,27,Male,97756,routine,moderate
-0357,Hayden,Reed,55,Female,55313,routine,moderate
-0358,Trinity,Hill,25,Female,38754,impulse,moderate
-0359,James,Torres,42,Female,38053,routine,moderate
-0360,JanÂ,Jones,83,Male,59713,routine,moderate
-0361,Carroll,Kelly,67,Male,08087,routine,heavy
-0362,Indigo,Scott,84,Male,21162,routine,moderate
-0363,Addison,Collins,66,Male,74866,impulse,moderate
-0364,Rylan,Foster,53,Male,15944,routine,moderate
-0365,West,Wood,58,Male,59054,routine,moderate
-0366,Emory,Gray,79,Female,68325,routine,moderate
-0367,Jaden,Adams,27,Prefer Not To Say,82513,routine,heavy
-0368,Henry,Griffin,38,Female,85040,routine,moderate
-0369,Britton,Watson,53,Female,17983,routine,heavy
-0370,Eden,Washington,29,Male,03042,routine,heavy
-0371,Ryan,Rodriguez,19,Prefer Not To Say,36867,routine,moderate
-0372,Tiernan,Williams,30,Male,42351,impulse,moderate
-0373,Murphy,Davis,70,Prefer Not To Say,21617,routine,moderate
-0374,Nico,Brown,49,Prefer Not To Say,79733,routine,heavy
-0375,Clayton,Brown,33,Female,78725,impulse,heavy
-0376,Tracy,Gray,49,Prefer Not To Say,01832,impulse,heavy
-0377,Shae,Young,49,Female,56334,routine,heavy
-0378,Dana,Patterson,28,Male,74027,routine,moderate
-0379,Kyrie,King,27,Male,67347,impulse,moderate
-0380,Kelly,Moore,32,Female,94514,routine,heavy
-0381,Dylan,Diaz,34,Male,28778,routine,moderate
-0382,Miller,Collins,57,Female,72736,impulse,moderate
-0383,Valentine,Price,35,Prefer Not To Say,48649,impulse,heavy
-0384,Reed,Martin,72,Male,85132,routine,heavy
-0385,Clayton,Howard,42,Female,07480,routine,moderate
-0386,Brighton,Turner,76,Non-Binary,72031,routine,moderate
-0387,Emerson,Bennett,39,Non-Binary,39363,impulse,moderate
-0388,Ryder,Parker,47,Prefer Not To Say,39645,routine,heavy
-0389,Pat,Hughes,61,Female,11375,routine,moderate
-0390,Rayne,Williams,49,Prefer Not To Say,30473,routine,moderate
-0391,Blue,Cooper,68,Female,32083,routine,moderate
-0392,Finley,Diaz,63,Male,24082,routine,moderate
-0393,Wesley,Jackson,38,Female,13693,routine,moderate
-0394,Skylar,Flores,49,Female,15038,routine,moderate
-0395,Regan,Green,56,Male,15733,impulse,moderate
-0396,Aubrey,Jenkins,29,Female,59927,routine,moderate
-0397,Shay,White,64,Female,98541,impulse,heavy
-0398,Andy,Griffin,35,Male,60520,routine,moderate
-0399,Sean,Anderson,38,Female,59006,routine,heavy
-0400,Finley,James,30,Female,35210,routine,moderate
-0401,West,Coleman,38,Female,50067,routine,light
-0402,Mckenna,Simmons,25,Male,88415,routine,light
-0403,Remi,Murphy,63,Male,88220,routine,moderate
-0404,Shay,Moore,24,Male,68424,routine,moderate
-0405,Kennedy,Coleman,40,Non-Binary,43222,routine,moderate
-0406,Emory,Reed,39,Male,11722,routine,moderate
-0407,Sterling,Griffin,39,Female,19040,routine,moderate
-0408,Ainsley,Gonzalez,46,Male,54488,routine,heavy
-0409,Armani,Lewis,30,Male,14414,routine,heavy
-0410,Tristan,Moore,19,Female,33523,routine,moderate
-0411,Shae,Mitchell,46,Female,91207,impulse,moderate
-0412,Stevie,Clark,69,Male,19543,impulse,moderate
-0413,Leighton,Reed,44,Male,85335,routine,moderate
-0414,Kyle,Brown,67,Male,87941,impulse,moderate
-0415,Max,Anderson,40,Female,14166,routine,moderate
-0416,Leslie,Kelly,61,Female,84094,routine,heavy
-0417,Bevan,Griffin,39,Male,93944,impulse,moderate
-0418,Maxwell,Hughes,60,Male,64071,routine,light
-0419,Finn,Mitchell,54,Male,53565,impulse,light
-0420,Tennessee,Martinez,78,Non-Binary,84339,routine,moderate
-0421,Charley,Scott,73,Prefer Not To Say,06059,impulse,heavy
-0422,London,Brown,20,Male,60914,impulse,heavy
-0423,Brennan,Hernandez,80,Female,74955,routine,moderate
-0424,Brent,Washington,36,Male,32033,routine,light
-0425,Valentine,Evans,40,Male,55350,routine,heavy
-0426,Archer,Lopez,46,Female,58784,routine,heavy
-0427,Emery,Garcia,47,Non-Binary,84716,routine,moderate
-0428,Skye,Sanders,56,Prefer Not To Say,22509,routine,heavy
-0429,Salem,Hernandez,42,Female,60465,routine,moderate
-0430,Billy,Nelson,25,Male,17779,routine,moderate
-0431,Ramsey,Bell,75,Female,29532,routine,moderate
-0432,Elliott,Wright,33,Male,54520,routine,heavy
-0433,Tate,Nelson,18,Female,58477,routine,moderate
-0434,Ember,Roberts,22,Male,28311,routine,moderate
-0435,Elliott,Clark,20,Female,40057,routine,light
-0436,Harper,Hall,82,Male,02881,routine,moderate
-0437,Frankie,Alexander,21,Male,60503,routine,heavy
-0438,Nolan,Bennett,81,Non-Binary,21160,routine,moderate
-0439,Harlow,Foster,27,Male,30643,routine,moderate
-0440,Dallas,Brooks,38,Female,10020,impulse,moderate
-0441,Ray,Coleman,63,Male,29589,routine,moderate
-0442,Tori,James,44,Male,29146,impulse,moderate
-0443,Shawn,Clark,83,Male,81423,routine,moderate
-0444,Lincoln,Griffin,58,Male,40445,impulse,heavy
-0445,Nico,Clark,30,Female,02359,impulse,moderate
-0446,Riley,Butler,26,Male,24149,routine,moderate
-0447,Mason,Nelson,53,Prefer Not To Say,64163,routine,moderate
-0448,Ezra,Richardson,75,Female,69212,impulse,moderate
-0449,Blaine,Davis,71,Male,51012,routine,light
-0450,Emory,Hughes,29,Female,36330,routine,heavy
-0451,Kyle,Edwards,31,Female,15431,impulse,heavy
-0452,Kylar,Perez,51,Female,10605,impulse,heavy
-0453,Nevada,Clark,70,Male,88001,routine,heavy
-0454,Remington,Simmons,37,Male,84701,routine,moderate
-0455,Blair,Russell,33,Female,64667,impulse,moderate
-0456,Tennessee,Kelly,73,Non-Binary,29918,routine,moderate
-0457,Michael,Kelly,75,Female,17506,routine,moderate
-0458,Arden,Hernandez,21,Male,15672,routine,moderate
-0459,Trinity,Rodriguez,21,Female,45103,routine,moderate
-0460,Ray,Jackson,37,Female,84037,routine,heavy
-0461,Venice,Hall,27,Female,24574,routine,moderate
-0462,Tobin,Flores,41,Male,37762,routine,light
-0463,Cassidy,Peterson,43,Female,68508,routine,moderate
-0464,Dorian,Lewis,54,Male,45867,routine,moderate
-0465,Ray,Hayes,71,Male,51034,routine,moderate
-0466,Montana,Wood,38,Female,77002,impulse,heavy
-0467,Ashley,Morgan,55,Male,68124,routine,moderate
-0468,Mason,Martinez,63,Male,75669,routine,moderate
-0469,Finley,Sanders,21,Male,54304,routine,heavy
-0470,Robyn,Miller,77,Non-Binary,53205,routine,moderate
-0471,Dana,Brown,74,Female,30517,routine,moderate
-0472,Tatum,Hall,62,Male,31763,impulse,moderate
-0473,Val,Brooks,37,Female,54159,routine,moderate
-0474,Peace,Rivera,34,Female,65443,routine,moderate
-0475,Remi,Morris,21,Male,29373,impulse,moderate
-0476,Caelan,Lewis,31,Female,32696,impulse,moderate
-0477,Kelly,Taylor,20,Female,83720,routine,moderate
-0478,Clayton,Cooper,75,Female,14054,impulse,light
-0479,Ezra,Peterson,72,Male,99741,routine,heavy
-0480,August,Bailey,21,Female,16117,routine,moderate
-0481,Cameron,Robinson,41,Female,90715,routine,heavy
-0482,Kylar,Rivera,51,Male,42103,routine,moderate
-0483,Kelly,Turner,47,Male,74001,routine,moderate
-0484,Carmen,Hayes,36,Male,17306,impulse,moderate
-0485,Blue,Johnson,48,Male,41740,routine,moderate
-0486,George,Carter,77,Female,82431,routine,heavy
-0487,Mckenzie,Nelson,77,Male,16249,routine,moderate
-0488,Brady,Foster,36,Male,13842,routine,moderate
-0489,Monroe,Thomas,66,Female,44606,routine,light
-0490,Remi,Robinson,80,Male,13153,routine,heavy
-0491,Indigo,Henderson,39,Prefer Not To Say,30259,routine,moderate
-0492,Jessie,Alexander,41,Male,56229,routine,moderate
-0493,Leslie,Jackson,47,Male,30080,routine,moderate
-0494,Ramsey,Allen,75,Male,78957,routine,heavy
-0495,Reese,Morgan,48,Male,94709,routine,moderate
-0496,Rowan,Parker,81,Male,48626,routine,light
-0497,Kendall,Bryant,36,Female,77703,routine,moderate
-0498,Rylan,Griffin,65,Prefer Not To Say,49802,routine,moderate
-0499,Dana,Sanders,62,Male,65788,routine,moderate
-0500,Andie,Barnes,72,Female,56032,routine,heavy
-0501,Dale,Hughes,72,Female,32570,routine,moderate
-0502,Skye,Martin,35,Female,06266,routine,moderate
-0503,River,Lopez,80,Male,97857,routine,heavy
-0504,Ali,Phillips,64,Male,12446,routine,moderate
-0505,MadisonÂ,Bailey,74,Male,78214,routine,moderate
-0506,Kameron,Hill,62,Female,54556,routine,light
-0507,London,Adams,50,Female,57059,routine,moderate
-0508,Loren,Alexander,34,Male,80645,routine,heavy
-0509,Umber,Griffin,21,Male,19367,impulse,moderate
-0510,Indigo,Wood,37,Non-Binary,15539,routine,moderate
-0511,Noel,Bell,64,Female,29518,routine,heavy
-0512,Alex,Sanders,32,Prefer Not To Say,10969,routine,moderate
-0513,Baker,Mitchell,64,Female,21208,routine,moderate
-0514,Linden,Gonzales,26,Male,38773,routine,moderate
-0515,Jude,Garcia,33,Female,13620,routine,heavy
-0516,Kelsey,Foster,78,Female,16321,routine,moderate
-0517,Ray,Sanchez,27,Male,87718,routine,heavy
-0518,Jesse,Jenkins,67,Female,42103,routine,moderate
-0519,Whitney,Collins,20,Female,61764,impulse,heavy
-0520,Cody,Alexander,68,Male,99742,routine,light
-0521,Sidney,Hayes,36,Female,96129,routine,moderate
-0522,Toni,Jenkins,59,Female,79081,routine,moderate
-0523,Micah,Butler,52,Prefer Not To Say,52065,routine,moderate
-0524,Logan,Barnes,63,Male,59315,routine,heavy
-0525,Ellis,Parker,43,Male,54846,impulse,moderate
-0526,Paris,Thomas,81,Female,43731,routine,moderate
-0527,Ashley,Sanchez,54,Male,56166,impulse,light
-0528,Blue,Parker,66,Female,77866,routine,heavy
-0529,Jaden,Taylor,38,Female,95211,routine,moderate
-0530,Maddox,Ross,81,Male,42124,routine,moderate
-0531,Kameron,Sanchez,22,Female,07881,routine,moderate
-0532,Salem,Washington,21,Female,72126,impulse,heavy
-0533,Reed,Turner,56,Male,44670,impulse,moderate
-0534,Jaden,Howard,52,Non-Binary,95642,routine,moderate
-0535,Carroll,White,18,Female,72638,impulse,moderate
-0536,Kerry,Barnes,41,Female,06796,routine,moderate
-0537,Addison,Young,74,Female,39556,impulse,moderate
-0538,Nevada,Murphy,58,Female,49201,routine,light
-0539,Nicky,Gonzalez,71,Non-Binary,57213,routine,moderate
-0540,Hayden,Thompson,63,Female,41003,impulse,moderate
-0541,Jody,Diaz,77,Female,37779,routine,moderate
-0542,Carroll,Torres,77,Female,95650,routine,heavy
-0543,Brent,Gonzalez,74,Male,67865,impulse,light
-0544,Maddox,Miller,48,Female,83841,routine,moderate
-0545,Leighton,Murphy,41,Male,56650,routine,heavy
-0546,Maddox,Anderson,53,Male,06085,routine,moderate
-0547,Kim,Richardson,47,Male,03291,impulse,heavy
-0548,Dawson,Davis,41,Prefer Not To Say,58032,routine,moderate
-0549,Quinn,Mitchell,47,Female,73040,routine,moderate
-0550,Parker,Cooper,24,Female,79754,impulse,light
-0551,Sidney,Ward,52,Female,87357,routine,light
-0552,Ripley,Baker,72,Female,22191,routine,heavy
-0553,Lincoln,Brooks,31,Non-Binary,75707,routine,moderate
-0554,Riley,Patterson,27,Female,74066,routine,heavy
-0555,Kennedy,Cook,33,Male,35765,impulse,moderate
-0556,Ashton,Griffin,71,Male,26719,routine,moderate
-0557,Brighton,Allen,61,Female,76044,impulse,moderate
-0558,Robyn,Griffin,62,Female,31904,impulse,moderate
-0559,Ari,Murphy,73,Male,21240,routine,moderate
-0560,Keely,Jones,74,Male,61234,routine,moderate
-0561,Addison,Roberts,38,Female,78161,routine,light
-0562,Campbell,Diaz,67,Male,93280,impulse,light
-0563,Storm,Jackson,50,Female,58541,routine,moderate
-0564,Kelly,Robinson,24,Prefer Not To Say,11944,routine,moderate
-0565,Archer,Harris,32,Male,18417,impulse,light
-0566,Remington,Murphy,49,Male,72955,routine,heavy
-0567,Tiernan,Murphy,37,Female,72531,impulse,moderate
-0568,Landon,Baker,32,Female,71250,routine,heavy
-0569,Amory,Cooper,65,Female,27054,routine,moderate
-0570,Indigo,Johnson,38,Prefer Not To Say,07041,routine,heavy
-0571,Lincoln,Young,59,Male,42050,routine,moderate
-0572,Elliott,Carter,43,Female,15623,routine,moderate
-0573,Jude,Perry,31,Female,71801,impulse,moderate
-0574,Monroe,Sanchez,74,Female,65232,routine,light
-0575,Max,Baker,54,Male,49067,routine,moderate
-0576,Bailey,Morgan,75,Female,97111,routine,moderate
-0577,Reed,Coleman,38,Female,90640,routine,moderate
-0578,Bowie,Roberts,20,Male,19013,routine,heavy
-0579,Rio,James,54,Male,16344,routine,moderate
-0580,Nico,Simmons,66,Female,15757,routine,light
-0581,Kelsey,Foster,36,Male,97862,routine,moderate
-0582,Paisley,Stewart,29,Male,44149,routine,heavy
-0583,Quincy,Young,78,Male,95679,routine,moderate
-0584,Reed,Perez,58,Female,93960,routine,moderate
-0585,Sage,Kelly,50,Female,37374,routine,moderate
-0586,Briar,Perry,67,Female,60941,routine,light
-0587,Billy,Davis,50,Male,67150,impulse,moderate
-0588,Skye,Edwards,41,Female,54562,routine,moderate
-0589,Denver,Watson,78,Female,49238,routine,light
-0590,Spencer,Wright,78,Female,79925,impulse,moderate
-0591,Nova,Williams,45,Non-Binary,01029,impulse,moderate
-0592,Andy,Smith,75,Male,49870,routine,heavy
-0593,Venice,Brooks,60,Female,60435,routine,heavy
-0594,Salem,Martinez,58,Male,53964,routine,moderate
-0595,Shiloh,Harris,56,Female,72021,routine,moderate
-0596,Alex,Cox,66,Male,11598,routine,moderate
-0597,Honour,Price,34,Male,84121,routine,heavy
-0598,Wesley,Martin,82,Male,75497,impulse,heavy
-0599,Charley,Barnes,22,Female,95553,impulse,moderate
-0600,Kendall,Reed,19,Male,82055,routine,heavy
-0601,Remington,Rogers,39,Female,48073,routine,moderate
-0602,Rylan,Thomas,74,Male,80249,impulse,heavy
-0603,Mason,Evans,83,Male,65484,routine,heavy
-0604,Teagan,Harris,33,Female,04551,impulse,moderate
-0605,Tyler,Perez,68,Male,66725,routine,moderate
-0606,Chance,Morgan,56,Male,59930,routine,moderate
-0607,Ray,Scott,57,Female,14214,routine,moderate
-0608,Umber,Sanders,55,Male,47638,routine,moderate
-0609,Mason,Allen,77,Male,37374,routine,moderate
-0610,Evelyn,Flores,76,Male,69143,routine,moderate
-0611,Frankie,Parker,27,Non-Binary,38834,routine,light
-0612,Ezra,Foster,81,Female,61024,routine,heavy
-0613,Alfie,Peterson,80,Female,12183,routine,light
-0614,Nova,Wilson,66,Female,64724,routine,heavy
-0615,Jessie,Mitchell,81,Male,68064,routine,moderate
-0616,Storm,Morgan,49,Male,71342,routine,moderate
-0617,Aubrey,Allen,24,Female,43140,impulse,light
-0618,Cameron,Howard,38,Male,44714,impulse,moderate
-0619,Linden,Hill,37,Male,16362,routine,moderate
-0620,Paris,Williams,43,Male,16350,routine,light
-0621,Devin,Foster,32,Male,73571,routine,moderate
-0622,Kelsey,Barnes,31,Prefer Not To Say,14174,impulse,moderate
-0623,Drew,Walker,44,Male,15064,routine,moderate
-0624,Darby,Peterson,57,Female,59014,routine,moderate
-0625,Addison,Rogers,75,Male,49028,routine,heavy
-0626,Brooks,Sanders,45,Prefer Not To Say,60555,routine,heavy
-0627,Maddox,Williams,43,Male,54201,routine,moderate
-0628,Payton,Collins,80,Male,20754,routine,moderate
-0629,Sunny,Allen,83,Female,03254,routine,light
-0630,Wallace,Harris,42,Female,87547,routine,light
-0631,Billie,Reed,20,Male,04087,routine,moderate
-0632,Emery,Gonzales,61,Male,95225,routine,moderate
-0633,Corey,Carter,59,Male,43786,routine,moderate
-0634,Blue,Hill,23,Male,42728,impulse,heavy
-0635,Kyrie,Parker,56,Male,93541,impulse,moderate
-0636,Shay,Perry,69,Female,64873,routine,moderate
-0637,Lennox,Hayes,40,Male,52305,routine,moderate
-0638,Henry,Moore,67,Male,12304,routine,moderate
-0639,Storm,Martinez,60,Female,54126,impulse,moderate
-0640,Tennessee,Hernandez,36,Prefer Not To Say,79789,routine,moderate
-0641,Campbell,Sanders,68,Female,72824,routine,moderate
-0642,Royal,Wood,28,Male,66076,impulse,moderate
-0643,Regan,Long,29,Male,13650,routine,heavy
-0644,Shiloh,Johnson,25,Prefer Not To Say,98439,impulse,moderate
-0645,Hadley,Hughes,41,Male,75765,routine,moderate
-0646,Sloane,Scott,58,Male,90037,routine,moderate
-0647,Perry,Anderson,53,Female,93551,routine,moderate
-0648,Ripley,Barnes,72,Female,32080,routine,heavy
-0649,Charlie,Nelson,26,Female,15742,routine,heavy
-0650,Dallas,Roberts,64,Male,04693,routine,moderate
-0651,Flynn,Scott,32,Male,38108,impulse,light
-0652,Nico,Stewart,65,Prefer Not To Say,32792,impulse,moderate
-0653,Sidney,Evans,59,Male,31022,routine,moderate
-0654,Rene,Gonzales,77,Female,74947,routine,moderate
-0655,Windsor,Barnes,29,Female,01937,routine,moderate
-0656,Evelyn,Turner,19,Female,63735,routine,moderate
-0657,Venice,Bryant,24,Male,59920,routine,moderate
-0658,Shawn,Martinez,20,Male,04677,routine,moderate
-0659,Lindsay,Cooper,20,Female,70460,routine,moderate
-0660,Bay,Anderson,44,Female,97335,routine,heavy
-0661,Shae,Hall,57,Non-Binary,49242,routine,light
-0662,Gabriel,Flores,50,Male,68050,routine,light
-0663,Brooks,Richardson,18,Male,45168,impulse,moderate
-0664,Delta,Rodriguez,25,Non-Binary,01821,impulse,heavy
-0665,Jessie,Wilson,49,Female,12461,routine,moderate
-0666,Valentine,Anderson,65,Female,95412,routine,heavy
-0667,Julian,Long,21,Male,08027,impulse,heavy
-0668,Milan,Ward,36,Female,75961,routine,moderate
-0669,Tobin,Hughes,49,Female,71375,routine,light
-0670,Clayton,Rodriguez,26,Female,36861,routine,light
-0671,Billie,Parker,29,Male,67836,impulse,moderate
-0672,Sydney,Gonzalez,28,Male,52533,impulse,heavy
-0673,Cameron,Allen,63,Female,23398,routine,moderate
-0674,Payton,Cooper,33,Male,02054,routine,moderate
-0675,Jaden,Mitchell,18,Female,81228,routine,moderate
-0676,Rowan,Perez,80,Prefer Not To Say,62297,routine,moderate
-0677,Brennan,Gray,38,Male,66425,impulse,moderate
-0678,Sage,Long,47,Female,62672,impulse,moderate
-0679,Grey,Simmons,30,Male,89044,routine,heavy
-0680,Shawn,Collins,51,Female,97345,impulse,moderate
-0681,Kylar,Richardson,21,Prefer Not To Say,33028,routine,moderate
-0682,Michael,Adams,45,Male,59273,routine,heavy
-0683,Emery,Clark,76,Male,24437,impulse,moderate
-0684,Amory,Cooper,44,Male,48891,impulse,moderate
-0685,Milan,Russell,42,Male,10461,routine,moderate
-0686,True,Johnson,20,Female,56226,routine,heavy
-0687,Noelle,Russell,42,Non-Binary,46176,impulse,heavy
-0688,Noelle,Richardson,37,Male,54901,routine,moderate
-0689,Lake,Nelson,51,Male,12059,routine,moderate
-0690,Ember,Bailey,43,Male,69216,routine,moderate
-0691,Leighton,Richardson,22,Female,84320,routine,moderate
-0692,Casey,Nelson,78,Male,43759,routine,moderate
-0693,Indigo,Cook,26,Female,45782,routine,moderate
-0694,Brooks,Sanchez,67,Female,07758,routine,moderate
-0695,Tori,Henderson,23,Female,43027,routine,moderate
-0696,Alex,Martinez,77,Male,16229,routine,moderate
-0697,Ellison,Washington,61,Female,27869,impulse,heavy
-0698,Loren,Allen,28,Male,98524,impulse,moderate
-0699,Athena,Harris,83,Male,83631,routine,moderate
-0700,Addison,Griffin,64,Female,52209,routine,light
-0701,Jessie,Walker,20,Female,97134,routine,moderate
-0702,Robyn,King,47,Male,60552,routine,light
-0703,Archer,Baker,38,Male,87112,routine,light
-0704,Briar,Price,45,Male,62969,routine,moderate
-0705,Billie,Coleman,79,Male,83404,routine,moderate
-0706,Darby,Davis,50,Male,17970,routine,moderate
-0707,Rayne,Moore,52,Male,60957,impulse,light
-0708,Dakota,Davis,69,Female,72023,impulse,moderate
-0709,Tyler,Green,51,Female,13756,routine,heavy
-0710,Shawn,Bryant,58,Female,63343,impulse,moderate
-0711,Brighton,Cooper,68,Female,61410,routine,heavy
-0712,Hunter,Rodriguez,64,Male,23663,routine,moderate
-0713,Raleigh,Gonzalez,75,Prefer Not To Say,60946,routine,moderate
-0714,Rylan,Wilson,74,Female,83340,impulse,moderate
-0715,Carmel,Scott,40,Female,48104,routine,moderate
-0716,Gene,Howard,65,Female,40242,routine,moderate
-0717,Britton,Simmons,39,Non-Binary,52584,routine,heavy
-0718,Casey,Bennett,34,Female,75076,routine,moderate
-0719,Avery,Perry,28,Male,17038,routine,moderate
-0720,Whitney,Bennett,32,Female,24318,routine,moderate
-0721,Sterling,Miller,52,Female,45352,routine,moderate
-0722,Amory,Baker,50,Female,77459,impulse,heavy
-0723,Harley,Perry,33,Female,95525,routine,moderate
-0724,Skye,Perez,51,Male,95915,routine,moderate
-0725,Mckenna,Jones,83,Male,08021,routine,moderate
-0726,Perry,Davis,57,Non-Binary,49508,routine,heavy
-0727,James,Brooks,45,Female,78212,routine,moderate
-0728,Carmel,Sanchez,64,Female,55969,routine,moderate
-0729,Raleigh,Cook,56,Male,33850,routine,moderate
-0730,Ari,Williams,37,Male,90292,routine,moderate
-0731,Bailey,Rodriguez,18,Female,68849,routine,moderate
-0732,Darby,Sanders,80,Female,14213,routine,light
-0733,Raphael,White,84,Female,61108,routine,light
-0734,Kyrie,Baker,21,Female,17097,routine,moderate
-0735,Ari,Turner,75,Female,32465,routine,moderate
-0736,Montana,Thomas,42,Male,60188,impulse,moderate
-0737,Ali,Patterson,64,Female,86305,routine,moderate
-0738,Aiden,Thomas,55,Male,19930,routine,heavy
-0739,Grey,Jackson,32,Male,18045,routine,moderate
-0740,Ryder,Reed,80,Female,42211,routine,moderate
-0741,Rylan,Hall,38,Non-Binary,23511,routine,heavy
-0742,Toby,Edwards,74,Male,44611,routine,moderate
-0743,Windsor,Ramirez,70,Female,33852,routine,moderate
-0744,Riley,Hayes,63,Male,11379,routine,moderate
-0745,Ariel,Hall,31,Male,78236,impulse,moderate
-0746,Nico,Wilson,34,Male,82638,routine,heavy
-0747,Honour,Foster,56,Male,24946,routine,heavy
-0748,Bailey,Peterson,26,Female,44815,routine,moderate
-0749,Paris,Ramirez,23,Male,27109,routine,moderate
-0750,Blue,Cooper,40,Female,50173,routine,moderate
-0751,Tobin,Ward,76,Non-Binary,25932,routine,heavy
-0752,Roan,Walker,63,Male,29935,routine,heavy
-0753,Dylan,Turner,55,Female,16727,routine,light
-0754,Jaden,Lopez,31,Male,33409,routine,moderate
-0755,Zephyr,Evans,79,Female,18056,routine,moderate
-0756,August,Phillips,52,Male,58535,impulse,heavy
-0757,Kelsey,Sanchez,36,Male,39532,routine,moderate
-0758,Arden,Garcia,47,Male,23420,impulse,moderate
-0759,Quincy,Alexander,42,Male,55111,impulse,moderate
-0760,August,James,57,Male,43302,routine,heavy
-0761,Clay,Kelly,31,Female,58237,impulse,moderate
-0762,Chris,Williams,43,Female,47948,impulse,moderate
-0763,Robyn,Bell,39,Female,72358,routine,moderate
-0764,George,Adams,65,Female,87326,impulse,moderate
-0765,Kendall,Martin,68,Male,21676,impulse,moderate
-0766,Grey,Price,20,Male,99333,routine,heavy
-0767,Rio,Foster,59,Male,49724,impulse,moderate
-0768,Grey,Gray,36,Male,66854,routine,moderate
-0769,Billie,Wood,45,Female,63851,impulse,moderate
-0770,Grey,Mitchell,62,Female,08203,routine,moderate
-0771,Tate,Russell,80,Male,03890,routine,heavy
-0772,Royal,Miller,36,Male,42038,routine,moderate
-0773,Devin,Gonzalez,64,Female,60560,routine,moderate
-0774,Brady,King,31,Female,48754,routine,moderate
-0775,Finn,Gonzales,55,Male,14510,routine,moderate
-0776,Alfie,Powell,70,Non-Binary,04092,impulse,heavy
-0777,Mckenna,Rivera,78,Prefer Not To Say,65024,routine,moderate
-0778,Tyler,Brooks,53,Male,49650,routine,moderate
-0779,Rene,Price,57,Male,30170,routine,moderate
-0780,Ripley,Rogers,47,Female,58718,impulse,light
-0781,Wesley,Collins,26,Non-Binary,43906,routine,moderate
-0782,Kit,Garcia,81,Female,61468,routine,heavy
-0783,Tori,Jones,50,Male,56134,impulse,moderate
-0784,Ocean,Simmons,69,Male,48059,routine,heavy
-0785,Cody,Collins,31,Female,91948,impulse,heavy
-0786,Hadley,Sanders,70,Female,72205,routine,moderate
-0787,Ainsley,Rogers,76,Male,97138,routine,light
-0788,Emery,Howard,58,Female,25071,routine,heavy
-0789,Kyle,King,25,Female,14543,routine,moderate
-0790,Jules,Ward,19,Female,39108,routine,heavy
-0791,Shae,Alexander,58,Female,14480,routine,moderate
-0792,Sam,Thompson,72,Female,44130,routine,moderate
-0793,Bellamy,Griffin,33,Male,89450,routine,moderate
-0794,Bobby,Hayes,79,Female,10530,routine,moderate
-0795,Ripley,Henderson,65,Male,79848,impulse,moderate
-0796,Blaine,Mitchell,47,Female,54926,routine,light
-0797,Remi,Cox,29,Male,59047,impulse,moderate
-0798,Alfie,Thompson,52,Female,76059,routine,moderate
-0799,Reed,Davis,28,Male,68410,routine,light
-0800,Dallas,Robinson,81,Male,46933,routine,heavy
-0801,Ainsley,Lewis,67,Male,70805,routine,moderate
-0802,Jody,Brooks,38,Male,84539,routine,moderate
-0803,Henry,Thomas,65,Female,81054,routine,heavy
-0804,Emerson,Williams,37,Female,24430,routine,moderate
-0805,Cassidy,Evans,84,Female,14591,impulse,moderate
-0806,Noel,Clark,61,Male,12037,routine,moderate
-0807,Parker,Stewart,50,Male,13646,routine,moderate
-0808,Avery,Harris,78,Male,77622,routine,moderate
-0809,Maddox,Russell,26,Male,18073,routine,moderate
-0810,Zephyr,Diaz,52,Female,24129,routine,moderate
-0811,Jessie,Cook,82,Male,53214,routine,moderate
-0812,Henry,Wilson,25,Male,43162,impulse,heavy
-0813,Toni,Hayes,62,Male,49424,routine,moderate
-0814,Quincy,Gonzales,64,Male,59418,routine,heavy
-0815,Remy,Patterson,57,Female,23357,impulse,moderate
-0816,Ashton,Lewis,71,Female,22473,routine,moderate
-0817,Harley,Walker,63,Male,52804,routine,moderate
-0818,Kai,White,64,Male,54763,routine,moderate
-0819,Brighton,Carter,32,Male,32222,routine,moderate
-0820,Addison,Johnson,36,Male,59262,impulse,moderate
-0821,Elliott,Garcia,43,Male,07666,routine,heavy
-0822,Keegan,Wright,69,Prefer Not To Say,50578,impulse,moderate
-0823,Blake,Martinez,39,Female,66060,routine,moderate
-0824,Wilder,Rodriguez,38,Female,73075,routine,heavy
-0825,Kaden,Bennett,68,Male,98526,routine,moderate
-0826,Storm,Sanders,55,Male,40840,impulse,heavy
-0827,Lennon,White,37,Female,60014,routine,moderate
-0828,Max,Flores,46,Female,56158,routine,heavy
-0829,Andy,Perry,68,Female,16232,impulse,heavy
-0830,Sutton,Johnson,21,Male,37659,routine,heavy
-0831,Julian,Lopez,72,Female,81154,routine,light
-0832,Mackenzie,Parker,45,Male,33414,routine,heavy
-0833,Arden,Flores,21,Female,47942,impulse,moderate
-0834,London,Bell,39,Female,55955,impulse,heavy
-0835,Jayden,Henderson,62,Female,83638,routine,light
-0836,Dorian,Martin,84,Male,16133,routine,heavy
-0837,Finn,Brown,83,Female,70363,impulse,light
-0838,Tobin,Ross,51,Male,52154,impulse,moderate
-0839,Tatum,Clark,72,Male,18419,routine,heavy
-0840,Blake,Gonzalez,18,Male,41563,routine,moderate
-0841,Emerson,James,55,Female,38553,impulse,moderate
-0842,Emery,Thompson,23,Male,05678,routine,moderate
-0843,Clayton,Hall,42,Male,91801,routine,moderate
-0844,Royal,Morris,34,Female,54428,impulse,light
-0845,Jules,Young,78,Male,02176,routine,moderate
-0846,Dana,Rivera,29,Female,98403,routine,moderate
-0847,Billy,Anderson,23,Male,60099,routine,moderate
-0848,Addison,Taylor,44,Male,65336,routine,moderate
-0849,Winter,Coleman,25,Female,97498,routine,moderate
-0850,Carter,White,82,Male,25243,routine,moderate
-0851,Teagan,Perez,74,Female,07058,routine,moderate
-0852,Ripley,Adams,57,Female,90403,routine,light
-0853,Teri,Foster,31,Female,93665,routine,heavy
-0854,Venice,Taylor,52,Female,36446,impulse,moderate
-0855,Weston,Gonzalez,65,Male,62815,impulse,moderate
-0856,Quinn,Gonzales,73,Male,99301,routine,moderate
-0857,Linden,Smith,66,Female,61282,routine,heavy
-0858,Alex,Brown,30,Female,73931,impulse,moderate
-0859,Darby,Collins,78,Female,28137,routine,moderate
-0860,Cassidy,Wilson,66,Female,59754,routine,moderate
-0861,Jesse,Lee,63,Female,97639,routine,moderate
-0862,Eden,Gonzalez,79,Female,48095,impulse,moderate
-0863,Ryan,Smith,25,Male,83223,routine,heavy
-0864,Brady,Watson,60,Female,29172,routine,heavy
-0865,Eden,Barnes,37,Female,44072,routine,light
-0866,Winter,Perry,56,Male,71497,routine,heavy
-0867,Wynn,Bell,66,Female,43085,impulse,moderate
-0868,Francis,Garcia,81,Female,33020,routine,moderate
-0869,Ari,Young,79,Female,87931,routine,moderate
-0870,Wallace,Gonzalez,71,Male,77012,impulse,heavy
-0871,Maxwell,Garcia,26,Male,58043,routine,moderate
-0872,Jade,King,54,Female,50420,routine,moderate
-0873,Aubrey,Walker,66,Non-Binary,92692,routine,light
-0874,Chance,James,58,Male,15684,routine,heavy
-0875,Keely,Bell,34,Male,50657,impulse,moderate
-0876,Kylin,Mitchell,38,Female,96728,routine,moderate
-0877,Kelsey,Davis,68,Male,23040,routine,moderate
-0878,Remy,Price,76,Female,77960,routine,moderate
-0879,Francis,Collins,56,Prefer Not To Say,72553,routine,moderate
-0880,Francis,Carter,72,Male,60401,routine,moderate
-0881,Blue,Johnson,58,Female,98422,routine,moderate
-0882,Ocean,Green,56,Male,39565,routine,moderate
-0883,Jody,Garcia,30,Male,53812,routine,moderate
-0884,Chris,Collins,81,Female,96014,routine,heavy
-0885,Maxwell,Cook,28,Male,61234,routine,heavy
-0886,Brady,Murphy,36,Prefer Not To Say,44216,routine,heavy
-0887,Ariel,Smith,28,Female,44049,routine,heavy
-0888,Grey,Martin,63,Male,04108,routine,moderate
-0889,Lane,Lopez,62,Male,45032,routine,moderate
-0890,Wesley,Kelly,18,Male,77466,routine,moderate
-0891,Roan,Wright,57,Male,88348,routine,moderate
-0892,Lane,Richardson,36,Male,47042,routine,heavy
-0893,Blake,Ward,78,Male,21851,routine,moderate
-0894,Erin,Carter,29,Female,72004,routine,heavy
-0895,Wesley,Thomas,78,Female,34990,impulse,light
-0896,Skylar,Collins,50,Female,95694,impulse,moderate
-0897,Nolan,Peterson,62,Female,80474,routine,light
-0898,Dylan,Hughes,25,Male,95223,routine,moderate
-0899,Andy,Lee,42,Male,52033,impulse,moderate
-0900,Alex,Griffin,63,Female,83352,impulse,moderate
-0901,Jack,Flores,47,Female,52738,impulse,heavy
-0902,Henry,Howard,64,Male,02322,routine,moderate
-0903,Windsor,Murphy,66,Female,62899,routine,light
-0904,Lee,Watson,64,Female,35620,routine,heavy
-0905,Rio,Robinson,35,Female,39652,routine,moderate
-0906,Raphael,Bryant,83,Male,64078,routine,moderate
-0907,Milan,James,50,Female,19001,routine,moderate
-0908,Ariel,Lee,53,Female,46350,routine,light
-0909,Lane,Howard,36,Female,28711,impulse,moderate
-0910,Jude,Morris,45,Female,05858,routine,moderate
-0911,Sutton,Walker,57,Female,72802,routine,moderate
-0912,Lane,Martinez,32,Female,50152,routine,moderate
-0913,Brighton,Perry,58,Male,27954,impulse,light
-0914,Maddox,Morris,56,Female,28411,impulse,moderate
-0915,Jayden,Hall,19,Female,31803,impulse,moderate
-0916,Emery,Torres,80,Female,92251,routine,moderate
-0917,Harper,Perez,46,Male,15218,routine,moderate
-0918,Sam,Howard,83,Male,96155,impulse,moderate
-0919,Whitney,Wilson,68,Female,80601,routine,moderate
-0920,Tyler,Powell,27,Female,50655,routine,moderate
-0921,Wyatt,Smith,31,Non-Binary,37617,impulse,heavy
-0922,Umber,Wilson,68,Female,28449,routine,moderate
-0923,Clayton,Murphy,56,Female,19087,routine,moderate
-0924,Kerry,Alexander,45,Female,02717,routine,heavy
-0925,Angel,Brown,20,Female,05494,routine,heavy
-0926,Skylar,Long,44,Female,77334,routine,moderate
-0927,Blake,Young,19,Female,35765,impulse,heavy
-0928,Jody,Cox,55,Male,28073,routine,moderate
-0929,Paige,Ross,20,Female,48329,routine,moderate
-0930,Aubrey,Ramirez,33,Female,24089,routine,light
-0931,Rayne,Washington,57,Male,92371,impulse,moderate
-0932,Kameron,Lee,19,Male,60481,impulse,light
-0933,Francis,Adams,58,Male,42629,impulse,moderate
-0934,Piper,Bailey,29,Male,16674,impulse,moderate
-0935,Grey,Turner,52,Male,81226,routine,moderate
-0936,Francis,Parker,82,Male,70377,routine,moderate
-0937,Lou,Cook,72,Non-Binary,47871,routine,moderate
-0938,Jessie,Wilson,62,Female,25248,routine,heavy
-0939,Wilder,Young,79,Male,24128,routine,moderate
-0940,James,Gonzalez,66,Male,20871,impulse,heavy
-0941,Gabriel,Butler,42,Female,90039,routine,moderate
-0942,Ellison,Scott,40,Male,88264,routine,heavy
-0943,Vick,Flores,41,Female,03255,routine,moderate
-0944,Brooks,Allen,55,Female,83215,routine,moderate
-0945,Baker,Jenkins,45,Female,27330,routine,heavy
-0946,Winter,Richardson,38,Male,31028,routine,moderate
-0947,Wisdom,Smith,71,Female,17050,routine,moderate
-0948,Raleigh,Edwards,35,Male,21222,routine,moderate
-0949,Teagan,Rivera,53,Non-Binary,60951,routine,moderate
-0950,Sterling,Perez,62,Female,23668,routine,moderate
-0951,Finn,White,70,Male,30562,impulse,moderate
-0952,Glen,Peterson,47,Male,36703,routine,moderate
-0953,Micah,Hernandez,77,Male,70580,impulse,moderate
-0954,Addison,Wright,49,Female,29322,routine,heavy
-0955,Carey,Washington,84,Male,37338,routine,moderate
-0956,Kim,Bennett,84,Female,33174,routine,moderate
-0957,Jules,Simmons,45,Male,25571,routine,heavy
-0958,Paris,Henderson,61,Female,07764,routine,moderate
-0959,Hayden,Barnes,58,Female,19562,routine,moderate
-0960,Kyrie,Lopez,80,Female,74735,routine,moderate
-0961,Weston,Wood,40,Female,25154,routine,heavy
-0962,Chance,Green,65,Male,27006,routine,moderate
-0963,Sasha,Richardson,49,Male,57722,routine,moderate
-0964,August,Rodriguez,74,Female,52209,routine,moderate
-0965,Elliott,Flores,50,Male,74761,routine,moderate
-0966,Dallas,Hernandez,41,Male,04746,routine,moderate
-0967,Windsor,Jackson,56,Male,71322,routine,moderate
-0968,Piper,Green,51,Male,63348,impulse,moderate
-0969,Arya,Nelson,73,Male,18088,impulse,light
-0970,Jamie,Rivera,45,Female,14139,impulse,moderate
-0971,Shiloh,Baker,54,Male,49276,routine,moderate
-0972,Maxwell,Jenkins,24,Female,71326,routine,moderate
-0973,Micah,Griffin,54,Male,55029,routine,heavy
-0974,Kyle,Jones,73,Female,75212,routine,heavy
-0975,August,Edwards,82,Male,98819,routine,moderate
-0976,Mckenna,Lopez,82,Female,73654,routine,moderate
-0977,Ocean,Griffin,64,Female,97641,routine,light
-0978,Lennon,Turner,37,Male,48066,routine,moderate
-0979,Mason,Jackson,36,Non-Binary,92782,routine,heavy
-0980,Valentine,Morris,46,Prefer Not To Say,47942,routine,moderate
-0981,Chance,Phillips,77,Female,15742,routine,moderate
-0982,Kit,Baker,35,Female,39571,routine,moderate
-0983,Kyrie,Smith,52,Male,78861,routine,moderate
-0984,Landon,Hughes,60,Female,85929,routine,moderate
-0985,Brooke,Gray,28,Male,52751,impulse,moderate
-0986,Dorian,Hill,66,Male,57197,routine,moderate
-0987,Mason,Flores,55,Prefer Not To Say,54827,routine,moderate
-0988,Kerry,Powell,81,Male,74437,routine,light
-0989,Henry,Harris,25,Female,78837,impulse,heavy
-0990,Chance,Ross,51,Female,30276,routine,heavy
-0991,Murphy,Gonzalez,65,Female,63783,routine,heavy
-0992,Brooke,Hill,73,Prefer Not To Say,81029,impulse,moderate
-0993,Sterling,Harris,82,Male,18816,routine,moderate
-0994,Remington,Stewart,48,Male,30009,impulse,moderate
-0995,Kameron,Edwards,21,Male,38128,impulse,light
-0996,Ramsey,Sanders,67,Male,38753,impulse,light
-0997,Poet,Foster,47,Male,21405,impulse,moderate
-0998,Bergen,Flores,76,Male,56128,routine,moderate
-0999,Leah,Richardson,84,Female,92260,impulse,moderate
-1000,Valentine,King,62,Female,62970,routine,light
+Customer_ID,First_Name,Last_Name,Age,Gender,Buyer_Habit,Buyer_Spending,zip,state_name
+0001,Flynn,King,52,Male,routine,heavy,44057,Ohio
+0002,Terry,Hall,61,Male,routine,moderate,83855,Idaho
+0003,Gene,Foster,28,Male,routine,heavy,21703,Maryland
+0004,Corey,Bailey,83,Male,routine,moderate,98262,Washington
+0005,Murphy,Campbell,63,Male,routine,heavy,51020,Iowa
+0006,Aspen,Clark,26,Male,impulse,moderate,92276,California
+0007,Flynn,Edwards,20,Female,impulse,moderate,52170,Iowa
+0008,Indigo,Evans,43,Female,routine,heavy,68417,Nebraska
+0009,Ramsey,Smith,65,Male,impulse,moderate,61265,Illinois
+0010,Eddie,Carter,83,Non-Binary,routine,heavy,97430,Oregon
+0011,Finley,Young,45,Male,routine,moderate,78672,Texas
+0012,Kyle,Henderson,43,Prefer Not To Say,routine,heavy,92115,California
+0013,Jean,Simmons,42,Male,routine,moderate,33034,Florida
+0014,Kit,Gonzales,29,Female,routine,moderate,98045,Washington
+0015,Stevie,Martinez,22,Female,routine,moderate,30288,Georgia
+0016,Windsor,Ward,65,Female,impulse,moderate,18327,Pennsylvania
+0017,Nico,Wood,54,Prefer Not To Say,routine,moderate,15423,Pennsylvania
+0018,Tori,Jones,61,Male,impulse,heavy,26412,West Virginia
+0019,Lennon,Smith,32,Prefer Not To Say,impulse,moderate,33442,Florida
+0020,Athena,Wilson,60,Male,routine,moderate,99167,Washington
+0021,Skye,Murphy,65,Male,routine,heavy,54948,Wisconsin
+0022,Royal,Ramirez,63,Male,routine,heavy,33859,Florida
+0023,Brooke,Williams,60,Female,impulse,heavy,63940,Missouri
+0024,Carson,Cooper,38,Male,routine,moderate,99519,Alaska
+0025,Loren,Taylor,40,Female,impulse,moderate,18505,Pennsylvania
+0026,Morgan,Adams,64,Female,routine,heavy,22511,Virginia
+0027,Terry,Phillips,32,Female,routine,moderate,12580,New York
+0028,Nevada,Cox,42,Female,routine,moderate,16621,Pennsylvania
+0029,Marley,Russell,53,Male,routine,moderate,63130,Missouri
+0030,Brooks,Patterson,68,Male,routine,moderate,88351,New Mexico
+0031,Carey,Ramirez,32,Male,routine,moderate,43761,Ohio
+0032,Sasha,Simmons,38,Male,routine,light,89825,Nevada
+0033,Jean,Cooper,30,Male,routine,moderate,17074,Pennsylvania
+0034,Jordan,Howard,36,Male,routine,moderate,08072,New Jersey
+0035,Aspen,Miller,51,Male,routine,heavy,68873,Nebraska
+0036,Logan,Foster,69,Prefer Not To Say,routine,moderate,43804,Ohio
+0037,Toby,Wilson,44,Female,routine,moderate,73063,Oklahoma
+0038,Eden,Ross,46,Male,routine,moderate,43315,Ohio
+0039,Ari,Watson,45,Female,routine,heavy,81024,Colorado
+0040,Salem,Coleman,52,Male,routine,moderate,92251,California
+0041,Tatum,Hughes,25,Male,impulse,moderate,57069,South Dakota
+0042,Cameron,Patterson,33,Female,impulse,moderate,23083,Virginia
+0043,Ellison,Kelly,53,Female,routine,moderate,72855,Arkansas
+0044,Tate,Scott,47,Male,routine,moderate,02841,Rhode Island
+0045,Billy,Gray,35,Prefer Not To Say,impulse,moderate,96137,California
+0046,Peace,Coleman,19,Female,routine,moderate,56310,Minnesota
+0047,Delta,Ward,66,Female,impulse,heavy,40508,Kentucky
+0048,Brooklyn,Russell,21,Female,routine,heavy,86431,Arizona
+0049,Adrian,Simmons,24,Female,routine,moderate,55434,Minnesota
+0050,Campbell,Wilson,56,Male,impulse,heavy,04064,Maine
+0051,Gabriel,Cox,30,Male,impulse,moderate,31020,Georgia
+0052,Sunny,Martin,48,Male,routine,heavy,85016,Arizona
+0053,Nicky,Alexander,80,Female,routine,moderate,22968,Virginia
+0054,Rayne,Hughes,73,Female,routine,heavy,53516,Wisconsin
+0055,Brent,Carter,59,Male,routine,moderate,50124,Iowa
+0056,Lennox,Cooper,78,Prefer Not To Say,routine,heavy,30582,Georgia
+0057,Paris,Allen,59,Non-Binary,impulse,light,67051,Kansas
+0058,Teri,Campbell,73,Female,routine,moderate,61072,Illinois
+0059,Terry,Jenkins,53,Female,impulse,heavy,15482,Pennsylvania
+0060,Ramsey,Garcia,24,Female,routine,moderate,51544,Iowa
+0061,Sidney,Gray,71,Male,routine,moderate,37356,Tennessee
+0062,Nevada,Powell,18,Female,routine,moderate,27617,North Carolina
+0063,Winter,White,61,Male,impulse,moderate,23801,Virginia
+0064,Quinn,Bryant,62,Female,routine,moderate,61374,Illinois
+0065,Peyton,Ramirez,64,Male,impulse,moderate,04649,Maine
+0066,Ryan,Hernandez,30,Female,impulse,moderate,15678,Pennsylvania
+0067,Cameron,Turner,39,Non-Binary,routine,heavy,10994,New York
+0068,Tristan,Miller,38,Male,impulse,moderate,12570,New York
+0069,Ray,Adams,26,Female,routine,moderate,17054,Pennsylvania
+0070,Sidney,Miller,43,Prefer Not To Say,impulse,moderate,56524,Minnesota
+0071,Morgan,Richardson,26,Female,routine,heavy,72564,Arkansas
+0072,Bowie,Morris,32,Female,routine,moderate,72863,Arkansas
+0073,Lane,Powell,27,Female,routine,light,56146,Minnesota
+0074,Ariel,Edwards,59,Male,routine,moderate,68413,Nebraska
+0075,Charley,Edwards,41,Male,routine,moderate,70443,Louisiana
+0076,Andie,Thompson,66,Male,routine,moderate,63962,Missouri
+0077,JanÂ,Murphy,43,Female,routine,moderate,35114,Alabama
+0078,Jude,Sanders,54,Male,routine,moderate,45720,Ohio
+0079,Chance,Turner,67,Female,routine,moderate,67232,Kansas
+0080,Kaden,Johnson,41,Female,routine,light,67131,Kansas
+0081,Delta,Smith,36,Female,routine,moderate,16655,Pennsylvania
+0082,Leslie,Young,77,Female,routine,heavy,97135,Oregon
+0083,Wesley,Wright,56,Prefer Not To Say,routine,heavy,61053,Illinois
+0084,Sutton,Collins,35,Male,routine,moderate,84119,Utah
+0085,Roan,Anderson,36,Female,impulse,moderate,72857,Arkansas
+0086,Bowie,Johnson,53,Female,impulse,moderate,40022,Kentucky
+0087,Bailey,Coleman,72,Female,routine,moderate,63457,Missouri
+0088,Jordan,Patterson,64,Prefer Not To Say,routine,heavy,55741,Minnesota
+0089,Paisley,Thomas,66,Male,routine,moderate,51002,Iowa
+0090,Tennessee,Collins,50,Male,routine,moderate,67423,Kansas
+0091,Bevan,Brown,38,Female,routine,moderate,72926,Arkansas
+0092,Britton,Garcia,39,Male,impulse,moderate,04952,Maine
+0093,Cassidy,Martinez,65,Female,impulse,heavy,64485,Missouri
+0094,Raphael,Gonzales,54,Female,routine,moderate,12786,New York
+0095,Wilder,Moore,32,Male,routine,heavy,85739,Arizona
+0096,Ezra,Griffin,52,Female,routine,moderate,82718,Wyoming
+0097,Mackenzie,Peterson,49,Male,routine,moderate,49870,Michigan
+0098,Raleigh,Walker,28,Female,routine,moderate,46077,Indiana
+0099,Billy,Diaz,27,Female,routine,moderate,77453,Texas
+0100,Riley,Long,74,Non-Binary,routine,moderate,28652,North Carolina
+0101,Finn,Rogers,42,Male,impulse,moderate,13752,New York
+0102,Jean,Roberts,19,Female,routine,moderate,92691,California
+0103,Sterling,Adams,81,Female,routine,moderate,45069,Ohio
+0104,Alex,Bailey,52,Female,routine,moderate,18602,Pennsylvania
+0105,Rayne,Kelly,24,Female,impulse,heavy,40346,Kentucky
+0106,Sloane,Patterson,35,Male,routine,moderate,22903,Virginia
+0107,Umber,Alexander,84,Male,routine,heavy,95928,California
+0108,Perry,Roberts,59,Male,routine,moderate,72835,Arkansas
+0109,Ariel,Roberts,56,Female,impulse,heavy,63934,Missouri
+0110,Brady,White,58,Male,routine,moderate,64016,Missouri
+0111,Maxwell,Moore,41,Male,routine,moderate,51447,Iowa
+0112,Chance,Clark,77,Prefer Not To Say,routine,light,72473,Arkansas
+0113,Roan,Henderson,63,Male,routine,moderate,76596,Texas
+0114,Sailor,Reed,36,Prefer Not To Say,routine,moderate,14721,New York
+0115,Caelan,Green,59,Female,routine,heavy,95938,California
+0116,Emory,Sanchez,49,Female,routine,moderate,11378,New York
+0117,Regan,Jones,56,Male,routine,moderate,95004,California
+0118,Roan,Cook,53,Male,impulse,heavy,56751,Minnesota
+0119,Ryan,Brooks,53,Female,routine,moderate,75942,Texas
+0120,Keely,Murphy,20,Female,impulse,moderate,43521,Ohio
+0121,Lou,Griffin,25,Female,routine,light,72108,Arkansas
+0122,Baker,Patterson,58,Male,impulse,light,31781,Georgia
+0123,Blaine,Garcia,30,Female,impulse,moderate,70772,Louisiana
+0124,Arden,Baker,66,Female,routine,heavy,72761,Arkansas
+0125,Leighton,Lopez,77,Female,routine,heavy,99827,Alaska
+0126,Montana,Evans,19,Female,routine,moderate,50158,Iowa
+0127,Sam,Powell,77,Female,impulse,moderate,46766,Indiana
+0128,Dylan,Lewis,22,Female,routine,moderate,51111,Iowa
+0129,Val,Hayes,61,Male,routine,moderate,48841,Michigan
+0130,Charlie,Rodriguez,44,Female,routine,moderate,14706,New York
+0131,Loren,Martinez,49,Male,routine,moderate,34987,Florida
+0132,Brett,Cox,38,Male,impulse,heavy,38112,Tennessee
+0133,Cassidy,Parker,25,Male,routine,moderate,55347,Minnesota
+0134,Jody,Garcia,67,Male,impulse,moderate,54136,Wisconsin
+0135,Val,Reed,84,Male,routine,moderate,37317,Tennessee
+0136,Bailey,Gonzalez,61,Male,routine,heavy,47525,Indiana
+0137,Genesis,Patterson,75,Female,routine,moderate,47849,Indiana
+0138,Brent,Long,20,Non-Binary,impulse,moderate,68322,Nebraska
+0139,Venice,Powell,19,Male,routine,moderate,12852,New York
+0140,Jamie,Morgan,61,Prefer Not To Say,impulse,heavy,31836,Georgia
+0141,Roan,Watson,19,Female,routine,moderate,67673,Kansas
+0142,Nevada,Rivera,52,Male,routine,moderate,32811,Florida
+0143,Remy,Davis,47,Male,routine,light,05653,Vermont
+0144,Umber,Butler,25,Female,impulse,heavy,57039,South Dakota
+0145,Hunter,Clark,39,Female,impulse,moderate,64870,Missouri
+0146,Haven,Griffin,61,Female,routine,heavy,68164,Nebraska
+0147,Robyn,Thomas,75,Male,impulse,moderate,57022,South Dakota
+0148,Storm,Peterson,53,Male,impulse,moderate,43543,Ohio
+0149,Ocean,Hill,48,Male,routine,moderate,56723,Minnesota
+0150,Jules,Taylor,64,Male,impulse,moderate,57334,South Dakota
+0151,Linden,Hall,72,Male,impulse,heavy,73010,Oklahoma
+0152,Remy,Parker,79,Male,routine,moderate,24861,West Virginia
+0153,Rory,Cook,47,Female,routine,moderate,87933,New Mexico
+0154,Mackenzie,Powell,72,Non-Binary,impulse,moderate,32009,Florida
+0155,Kyle,Simmons,33,Male,routine,moderate,77971,Texas
+0156,Leighton,Bennett,29,Non-Binary,routine,moderate,17049,Pennsylvania
+0157,Emory,Allen,34,Male,routine,moderate,99585,Alaska
+0158,Robyn,Barnes,33,Female,routine,heavy,79346,Texas
+0159,Mckenna,Johnson,29,Male,impulse,moderate,26055,West Virginia
+0160,Harley,Gray,25,Female,routine,moderate,62692,Illinois
+0161,Caelan,Ross,20,Prefer Not To Say,routine,moderate,29635,South Carolina
+0162,Tennessee,Ward,33,Female,routine,moderate,61115,Illinois
+0163,Wynn,Peterson,47,Male,routine,moderate,59487,Montana
+0164,Harley,Thompson,40,Female,routine,moderate,93701,California
+0165,Finn,Cook,22,Male,routine,heavy,80487,Colorado
+0166,Harley,Murphy,82,Female,routine,moderate,43320,Ohio
+0167,Delta,Stewart,47,Female,routine,moderate,44606,Ohio
+0168,Montana,Anderson,38,Male,impulse,moderate,02536,Massachusetts
+0169,Harley,Clark,39,Female,impulse,moderate,52135,Iowa
+0170,Adrian,Anderson,49,Female,routine,moderate,21612,Maryland
+0171,Jayden,Thompson,50,Male,routine,light,94130,California
+0172,Reed,Kelly,33,Female,routine,moderate,98354,Washington
+0173,Campbell,Robinson,55,Male,routine,heavy,59525,Montana
+0174,Remington,Diaz,31,Female,routine,moderate,67337,Kansas
+0175,Remy,Gray,53,Female,impulse,moderate,33973,Florida
+0176,Jaden,Griffin,40,Female,routine,moderate,18015,Pennsylvania
+0177,Jayden,Ramirez,83,Female,impulse,moderate,98288,Washington
+0178,Cameron,Rogers,19,Female,routine,moderate,78118,Texas
+0179,Mackenzie,Sanchez,82,Male,routine,light,07661,New Jersey
+0180,Rayne,Wright,84,Female,routine,moderate,04940,Maine
+0181,Leighton,James,69,Male,routine,heavy,17901,Pennsylvania
+0182,Ocean,Richardson,79,Female,impulse,moderate,43018,Ohio
+0183,Shae,Thompson,40,Male,routine,moderate,44503,Ohio
+0184,Parker,Collins,43,Male,routine,moderate,07041,New Jersey
+0185,Milan,Phillips,72,Female,routine,moderate,98416,Washington
+0186,Jack,Diaz,23,Male,routine,moderate,06118,Connecticut
+0187,Sloane,Roberts,52,Female,routine,moderate,60156,Illinois
+0188,Windsor,Bennett,39,Male,routine,moderate,64123,Missouri
+0189,Tristan,Griffin,60,Male,routine,heavy,53097,Wisconsin
+0190,Evelyn,Green,32,Female,routine,moderate,06380,Connecticut
+0191,Ocean,Cook,77,Male,routine,moderate,45311,Ohio
+0192,Sage,Henderson,29,Male,routine,light,12580,New York
+0193,Kelly,Green,66,Female,routine,moderate,05651,Vermont
+0194,Erin,Green,59,Male,routine,moderate,49037,Michigan
+0195,Paisley,Clark,55,Female,routine,moderate,30609,Georgia
+0196,Jackie,Parker,62,Male,routine,light,68362,Nebraska
+0197,Montana,Smith,52,Male,impulse,moderate,87025,New Mexico
+0198,Storm,Flores,47,Female,routine,heavy,22724,Virginia
+0199,Kerry,Price,47,Male,impulse,moderate,99632,Alaska
+0200,Sidney,Lee,23,Male,impulse,moderate,27822,North Carolina
+0201,Kennedy,Lewis,84,Male,routine,moderate,22572,Virginia
+0202,Kerry,Reed,24,Male,routine,moderate,55013,Minnesota
+0203,Owen,Robinson,69,Female,impulse,moderate,26581,West Virginia
+0204,Jamie,Martin,31,Male,impulse,light,73719,Oklahoma
+0205,Blue,Williams,32,Female,impulse,heavy,74801,Oklahoma
+0206,JanÂ,Walker,38,Female,routine,moderate,36547,Alabama
+0207,Teagan,Ward,52,Male,impulse,moderate,78164,Texas
+0208,Kylar,Gonzales,83,Non-Binary,impulse,moderate,60446,Illinois
+0209,Wren,Griffin,19,Male,routine,heavy,43436,Ohio
+0210,Ezra,Thomas,52,Prefer Not To Say,routine,heavy,23840,Virginia
+0211,Tanner,Edwards,37,Male,routine,moderate,86409,Arizona
+0212,Sidney,Walker,27,Female,impulse,moderate,28573,North Carolina
+0213,Kelly,Kelly,42,Female,routine,moderate,37160,Tennessee
+0214,Hadley,King,83,Male,routine,moderate,57531,South Dakota
+0215,Carter,Price,42,Female,routine,moderate,76629,Texas
+0216,Adrian,Parker,71,Female,routine,moderate,84722,Utah
+0217,Skylar,Adams,50,Male,routine,moderate,33610,Florida
+0218,Kai,Watson,53,Male,impulse,moderate,58029,North Dakota
+0219,Blair,Ramirez,31,Female,routine,moderate,60442,Illinois
+0220,Leighton,Young,82,Female,routine,heavy,35980,Alabama
+0221,Andie,Thomas,71,Prefer Not To Say,routine,heavy,47989,Indiana
+0222,Robyn,Bennett,69,Female,impulse,moderate,33319,Florida
+0223,Ezra,Perez,20,Prefer Not To Say,impulse,moderate,12025,New York
+0224,Kennedy,Hughes,58,Female,routine,moderate,96929,Guam
+0225,Peyton,Phillips,23,Male,impulse,moderate,26164,West Virginia
+0226,Jean,Wilson,42,Male,impulse,moderate,55713,Minnesota
+0227,Kyle,Bryant,30,Female,routine,light,77640,Texas
+0228,Campbell,Stewart,25,Female,routine,moderate,02114,Massachusetts
+0229,Hudson,Roberts,38,Male,routine,moderate,56443,Minnesota
+0230,Lennon,Patterson,42,Male,routine,light,14173,New York
+0231,Haven,Perez,62,Prefer Not To Say,routine,moderate,48720,Michigan
+0232,Dallas,Lopez,77,Female,impulse,light,12405,New York
+0233,Harley,Scott,29,Male,impulse,light,18946,Pennsylvania
+0234,Francis,Reed,49,Female,routine,moderate,59743,Montana
+0235,Skylar,Turner,30,Male,routine,moderate,36758,Alabama
+0236,Riley,Flores,48,Male,routine,moderate,27549,North Carolina
+0237,Hadley,Thomas,37,Male,impulse,moderate,75246,Texas
+0238,Ezra,Harris,35,Male,routine,moderate,98547,Washington
+0239,Kylin,Kelly,77,Female,routine,heavy,36105,Alabama
+0240,Noel,Cook,80,Male,routine,moderate,04635,Maine
+0241,Leslie,Cook,23,Female,routine,moderate,33473,Florida
+0242,Peyton,Young,49,Female,routine,heavy,70358,Louisiana
+0243,Lonnie,Cooper,60,Male,routine,heavy,74633,Oklahoma
+0244,Lennon,Taylor,19,Female,routine,heavy,18071,Pennsylvania
+0245,Clay,Campbell,77,Female,impulse,moderate,53572,Wisconsin
+0246,Wesley,Hill,40,Female,routine,light,50616,Iowa
+0247,Tori,Parker,48,Male,routine,light,78416,Texas
+0248,Jordan,Morris,22,Female,impulse,moderate,33605,Florida
+0249,Noelle,Cook,51,Female,routine,moderate,99634,Alaska
+0250,Jamie,Powell,27,Male,routine,moderate,28684,North Carolina
+0251,Bevan,Long,19,Male,routine,moderate,03904,Maine
+0252,Marlow,Miller,28,Female,routine,moderate,81430,Colorado
+0253,Athena,White,67,Female,impulse,heavy,92335,California
+0254,Ryder,Mitchell,48,Male,routine,light,86343,Arizona
+0255,Leah,Miller,73,Female,routine,moderate,91321,California
+0256,Blake,Moore,26,Male,routine,moderate,42764,Kentucky
+0257,River,Hernandez,38,Female,routine,moderate,78231,Texas
+0258,Brooks,Scott,45,Male,routine,moderate,22124,Virginia
+0259,Tate,Kelly,79,Female,routine,moderate,49241,Michigan
+0260,Umber,Patterson,24,Male,routine,moderate,86507,Arizona
+0261,Avis,Foster,33,Male,routine,heavy,95559,California
+0262,Rene,Turner,21,Male,impulse,moderate,39097,Mississippi
+0263,Tori,Bryant,21,Male,routine,moderate,07002,New Jersey
+0264,Venice,Gonzales,57,Female,routine,moderate,92555,California
+0265,Erin,Robinson,34,Male,impulse,moderate,56588,Minnesota
+0266,Val,Diaz,69,Female,routine,moderate,29117,South Carolina
+0267,Kennedy,Evans,69,Male,impulse,moderate,41052,Kentucky
+0268,Ainsley,Kelly,53,Male,impulse,moderate,13732,New York
+0269,Billy,Parker,55,Male,routine,moderate,73858,Oklahoma
+0270,Nico,White,67,Male,impulse,moderate,53003,Wisconsin
+0271,Brooke,Rivera,80,Male,impulse,moderate,57321,South Dakota
+0272,Arya,Rogers,80,Male,impulse,heavy,67110,Kansas
+0273,Mackenzie,Diaz,79,Female,routine,moderate,40740,Kentucky
+0274,Reed,Sanders,24,Male,impulse,light,78162,Texas
+0275,Leah,Hall,44,Female,routine,moderate,53530,Wisconsin
+0276,Briar,Griffin,31,Female,impulse,heavy,47112,Indiana
+0277,Alfie,Williams,22,Male,routine,moderate,87064,New Mexico
+0278,Ezra,Garcia,72,Female,routine,heavy,74050,Oklahoma
+0279,Robyn,Lee,19,Prefer Not To Say,routine,moderate,92064,California
+0280,Blair,Clark,79,Female,routine,light,48197,Michigan
+0281,Tristan,Washington,38,Female,routine,moderate,82434,Wyoming
+0282,Mckenzie,Ramirez,38,Male,routine,moderate,65061,Missouri
+0283,Emery,Patterson,27,Female,routine,light,30581,Georgia
+0284,Ezra,Robinson,75,Female,impulse,light,14075,New York
+0285,Morgan,Harris,56,Female,routine,moderate,79412,Texas
+0286,Haven,Jones,22,Prefer Not To Say,routine,moderate,30277,Georgia
+0287,Nicky,Foster,82,Male,routine,moderate,40347,Kentucky
+0288,Skye,Long,30,Male,routine,moderate,70356,Louisiana
+0289,Lennon,Reed,70,Female,routine,moderate,71964,Arkansas
+0290,Spencer,Jackson,62,Female,routine,moderate,01562,Massachusetts
+0291,Jamie,Turner,49,Male,impulse,moderate,71972,Arkansas
+0292,Ash,Richardson,53,Male,impulse,moderate,16335,Pennsylvania
+0293,True,Campbell,77,Male,impulse,moderate,73755,Oklahoma
+0294,Remi,Lewis,28,Male,routine,moderate,60041,Illinois
+0295,Campbell,Henderson,80,Female,routine,moderate,42060,Kentucky
+0296,Carroll,Ramirez,38,Female,routine,moderate,76251,Texas
+0297,MadisonÂ,Diaz,69,Male,routine,heavy,66856,Kansas
+0298,Tristan,Lewis,72,Male,routine,moderate,78731,Texas
+0299,Harlow,Cox,43,Male,routine,moderate,67530,Kansas
+0300,Wallace,Bailey,51,Male,routine,moderate,73127,Oklahoma
+0301,Kylar,Jackson,69,Female,routine,moderate,31625,Georgia
+0302,James,Jackson,69,Prefer Not To Say,routine,moderate,29046,South Carolina
+0303,Lake,Evans,46,Female,routine,moderate,35098,Alabama
+0304,Tobin,Cooper,55,Male,routine,heavy,44490,Ohio
+0305,Francis,Alexander,59,Female,routine,moderate,04453,Maine
+0306,Wyatt,Diaz,38,Female,routine,moderate,30250,Georgia
+0307,Sean,Robinson,59,Female,routine,moderate,35054,Alabama
+0308,Marlow,Allen,30,Female,routine,moderate,38463,Tennessee
+0309,Blue,Murphy,81,Male,impulse,light,96774,Hawaii
+0310,Loren,Bennett,34,Male,routine,moderate,36742,Alabama
+0311,Shae,Foster,26,Male,impulse,heavy,87068,New Mexico
+0312,Avery,Bennett,58,Male,routine,moderate,02025,Massachusetts
+0313,Arden,Watson,18,Male,routine,heavy,12836,New York
+0314,Blaine,Campbell,19,Female,routine,light,85352,Arizona
+0315,Maddox,James,77,Female,impulse,moderate,77598,Texas
+0316,Ashton,Taylor,65,Female,routine,moderate,20165,Virginia
+0317,Tate,Bailey,46,Male,routine,moderate,62312,Illinois
+0318,Keegan,Reed,27,Prefer Not To Say,impulse,moderate,92356,California
+0319,Keely,Perry,75,Non-Binary,routine,moderate,74107,Oklahoma
+0320,Ellison,Brown,77,Female,routine,heavy,70053,Louisiana
+0321,Wallace,Ross,38,Prefer Not To Say,routine,moderate,89411,Nevada
+0322,Ramsey,Gonzales,45,Female,impulse,heavy,44053,Ohio
+0323,Brooks,King,51,Prefer Not To Say,routine,light,16255,Pennsylvania
+0324,Kylin,Williams,25,Male,routine,light,16616,Pennsylvania
+0325,Monroe,Hall,76,Male,routine,moderate,07420,New Jersey
+0326,Chance,White,66,Male,routine,moderate,38255,Tennessee
+0327,Nevada,Bailey,34,Male,impulse,moderate,97367,Oregon
+0328,Jade,Jenkins,77,Male,impulse,moderate,33176,Florida
+0329,Kit,Evans,62,Female,routine,moderate,40387,Kentucky
+0330,Carroll,Bennett,49,Female,routine,moderate,15559,Pennsylvania
+0331,Mckenna,Garcia,61,Female,impulse,moderate,59201,Montana
+0332,Loren,Reed,82,Male,impulse,moderate,49302,Michigan
+0333,Terry,Hernandez,25,Female,routine,moderate,12835,New York
+0334,Campbell,Ross,60,Female,impulse,light,65650,Missouri
+0335,Finn,Peterson,18,Male,impulse,light,33585,Florida
+0336,Tate,Mitchell,68,Female,routine,heavy,94531,California
+0337,Cameron,Green,41,Male,impulse,heavy,18421,Pennsylvania
+0338,Carter,Harris,41,Male,routine,light,04967,Maine
+0339,Genesis,King,34,Non-Binary,routine,light,78215,Texas
+0340,Alex,Hughes,22,Male,routine,heavy,93635,California
+0341,Flynn,Jenkins,37,Female,routine,moderate,34442,Florida
+0342,Nolan,Thomas,38,Female,routine,moderate,29651,South Carolina
+0343,Sydney,Kelly,75,Female,routine,moderate,97709,Oregon
+0344,Brighton,Garcia,48,Male,routine,moderate,95619,California
+0345,Kelly,Price,28,Male,routine,heavy,25841,West Virginia
+0346,Tennyson,Lee,69,Male,routine,light,14874,New York
+0347,Jackie,Lopez,32,Female,routine,moderate,62325,Illinois
+0348,Gabriel,Robinson,24,Male,routine,moderate,57381,South Dakota
+0349,Leah,James,45,Male,impulse,moderate,32825,Florida
+0350,Kennedy,Wood,68,Prefer Not To Say,routine,moderate,52001,Iowa
+0351,Kelsey,Allen,75,Female,impulse,moderate,37932,Tennessee
+0352,Hudson,Hughes,22,Male,routine,heavy,96748,Hawaii
+0353,Toni,Anderson,22,Female,routine,moderate,47342,Indiana
+0354,Ellison,Bennett,25,Female,routine,moderate,43207,Ohio
+0355,Carroll,Nelson,81,Male,routine,heavy,20646,Maryland
+0356,Ripley,Griffin,27,Male,routine,moderate,97756,Oregon
+0357,Hayden,Reed,55,Female,routine,moderate,55313,Minnesota
+0358,Trinity,Hill,25,Female,impulse,moderate,38754,Mississippi
+0359,James,Torres,42,Female,routine,moderate,38053,Tennessee
+0360,JanÂ,Jones,83,Male,routine,moderate,59713,Montana
+0361,Carroll,Kelly,67,Male,routine,heavy,08087,New Jersey
+0362,Indigo,Scott,84,Male,routine,moderate,21162,Maryland
+0363,Addison,Collins,66,Male,impulse,moderate,74866,Oklahoma
+0364,Rylan,Foster,53,Male,routine,moderate,15944,Pennsylvania
+0365,West,Wood,58,Male,routine,moderate,59054,Montana
+0366,Emory,Gray,79,Female,routine,moderate,68325,Nebraska
+0367,Jaden,Adams,27,Prefer Not To Say,routine,heavy,82513,Wyoming
+0368,Henry,Griffin,38,Female,routine,moderate,85040,Arizona
+0369,Britton,Watson,53,Female,routine,heavy,17983,Pennsylvania
+0370,Eden,Washington,29,Male,routine,heavy,03042,New Hampshire
+0371,Ryan,Rodriguez,19,Prefer Not To Say,routine,moderate,36867,Alabama
+0372,Tiernan,Williams,30,Male,impulse,moderate,42351,Kentucky
+0373,Murphy,Davis,70,Prefer Not To Say,routine,moderate,21617,Maryland
+0374,Nico,Brown,49,Prefer Not To Say,routine,heavy,79733,Texas
+0375,Clayton,Brown,33,Female,impulse,heavy,78725,Texas
+0376,Tracy,Gray,49,Prefer Not To Say,impulse,heavy,01832,Massachusetts
+0377,Shae,Young,49,Female,routine,heavy,56334,Minnesota
+0378,Dana,Patterson,28,Male,routine,moderate,74027,Oklahoma
+0379,Kyrie,King,27,Male,impulse,moderate,67347,Kansas
+0380,Kelly,Moore,32,Female,routine,heavy,94514,California
+0381,Dylan,Diaz,34,Male,routine,moderate,28778,North Carolina
+0382,Miller,Collins,57,Female,impulse,moderate,72736,Arkansas
+0383,Valentine,Price,35,Prefer Not To Say,impulse,heavy,48649,Michigan
+0384,Reed,Martin,72,Male,routine,heavy,85132,Arizona
+0385,Clayton,Howard,42,Female,routine,moderate,07480,New Jersey
+0386,Brighton,Turner,76,Non-Binary,routine,moderate,72031,Arkansas
+0387,Emerson,Bennett,39,Non-Binary,impulse,moderate,39363,Mississippi
+0388,Ryder,Parker,47,Prefer Not To Say,routine,heavy,39645,Mississippi
+0389,Pat,Hughes,61,Female,routine,moderate,11375,New York
+0390,Rayne,Williams,49,Prefer Not To Say,routine,moderate,30473,Georgia
+0391,Blue,Cooper,68,Female,routine,moderate,32083,Florida
+0392,Finley,Diaz,63,Male,routine,moderate,24082,Virginia
+0393,Wesley,Jackson,38,Female,routine,moderate,13693,New York
+0394,Skylar,Flores,49,Female,routine,moderate,15038,Pennsylvania
+0395,Regan,Green,56,Male,impulse,moderate,15733,Pennsylvania
+0396,Aubrey,Jenkins,29,Female,routine,moderate,59927,Montana
+0397,Shay,White,64,Female,impulse,heavy,98541,Washington
+0398,Andy,Griffin,35,Male,routine,moderate,60520,Illinois
+0399,Sean,Anderson,38,Female,routine,heavy,59006,Montana
+0400,Finley,James,30,Female,routine,moderate,35210,Alabama
+0401,West,Coleman,38,Female,routine,light,50067,Iowa
+0402,Mckenna,Simmons,25,Male,routine,light,88415,New Mexico
+0403,Remi,Murphy,63,Male,routine,moderate,88220,New Mexico
+0404,Shay,Moore,24,Male,routine,moderate,68424,Nebraska
+0405,Kennedy,Coleman,40,Non-Binary,routine,moderate,43222,Ohio
+0406,Emory,Reed,39,Male,routine,moderate,11722,New York
+0407,Sterling,Griffin,39,Female,routine,moderate,19040,Pennsylvania
+0408,Ainsley,Gonzalez,46,Male,routine,heavy,54488,Wisconsin
+0409,Armani,Lewis,30,Male,routine,heavy,14414,New York
+0410,Tristan,Moore,19,Female,routine,moderate,33523,Florida
+0411,Shae,Mitchell,46,Female,impulse,moderate,91207,California
+0412,Stevie,Clark,69,Male,impulse,moderate,19543,Pennsylvania
+0413,Leighton,Reed,44,Male,routine,moderate,85335,Arizona
+0414,Kyle,Brown,67,Male,impulse,moderate,87941,New Mexico
+0415,Max,Anderson,40,Female,routine,moderate,14166,New York
+0416,Leslie,Kelly,61,Female,routine,heavy,84094,Utah
+0417,Bevan,Griffin,39,Male,impulse,moderate,93944,California
+0418,Maxwell,Hughes,60,Male,routine,light,64071,Missouri
+0419,Finn,Mitchell,54,Male,impulse,light,53565,Wisconsin
+0420,Tennessee,Martinez,78,Non-Binary,routine,moderate,84339,Utah
+0421,Charley,Scott,73,Prefer Not To Say,impulse,heavy,06059,Connecticut
+0422,London,Brown,20,Male,impulse,heavy,60914,Illinois
+0423,Brennan,Hernandez,80,Female,routine,moderate,74955,Oklahoma
+0424,Brent,Washington,36,Male,routine,light,32033,Florida
+0425,Valentine,Evans,40,Male,routine,heavy,55350,Minnesota
+0426,Archer,Lopez,46,Female,routine,heavy,58784,North Dakota
+0427,Emery,Garcia,47,Non-Binary,routine,moderate,84716,Utah
+0428,Skye,Sanders,56,Prefer Not To Say,routine,heavy,22509,Virginia
+0429,Salem,Hernandez,42,Female,routine,moderate,60465,Illinois
+0430,Billy,Nelson,25,Male,routine,moderate,17779,Pennsylvania
+0431,Ramsey,Bell,75,Female,routine,moderate,29532,South Carolina
+0432,Elliott,Wright,33,Male,routine,heavy,54520,Wisconsin
+0433,Tate,Nelson,18,Female,routine,moderate,58477,North Dakota
+0434,Ember,Roberts,22,Male,routine,moderate,28311,North Carolina
+0435,Elliott,Clark,20,Female,routine,light,40057,Kentucky
+0436,Harper,Hall,82,Male,routine,moderate,02881,Rhode Island
+0437,Frankie,Alexander,21,Male,routine,heavy,60503,Illinois
+0438,Nolan,Bennett,81,Non-Binary,routine,moderate,21160,Maryland
+0439,Harlow,Foster,27,Male,routine,moderate,30643,Georgia
+0440,Dallas,Brooks,38,Female,impulse,moderate,10020,New York
+0441,Ray,Coleman,63,Male,routine,moderate,29589,South Carolina
+0442,Tori,James,44,Male,impulse,moderate,29146,South Carolina
+0443,Shawn,Clark,83,Male,routine,moderate,81423,Colorado
+0444,Lincoln,Griffin,58,Male,impulse,heavy,40445,Kentucky
+0445,Nico,Clark,30,Female,impulse,moderate,02359,Massachusetts
+0446,Riley,Butler,26,Male,routine,moderate,24149,Virginia
+0447,Mason,Nelson,53,Prefer Not To Say,routine,moderate,64163,Missouri
+0448,Ezra,Richardson,75,Female,impulse,moderate,69212,Nebraska
+0449,Blaine,Davis,71,Male,routine,light,51012,Iowa
+0450,Emory,Hughes,29,Female,routine,heavy,36330,Alabama
+0451,Kyle,Edwards,31,Female,impulse,heavy,15431,Pennsylvania
+0452,Kylar,Perez,51,Female,impulse,heavy,10605,New York
+0453,Nevada,Clark,70,Male,routine,heavy,88001,New Mexico
+0454,Remington,Simmons,37,Male,routine,moderate,84701,Utah
+0455,Blair,Russell,33,Female,impulse,moderate,64667,Missouri
+0456,Tennessee,Kelly,73,Non-Binary,routine,moderate,29918,South Carolina
+0457,Michael,Kelly,75,Female,routine,moderate,17506,Pennsylvania
+0458,Arden,Hernandez,21,Male,routine,moderate,15672,Pennsylvania
+0459,Trinity,Rodriguez,21,Female,routine,moderate,45103,Ohio
+0460,Ray,Jackson,37,Female,routine,heavy,84037,Utah
+0461,Venice,Hall,27,Female,routine,moderate,24574,Virginia
+0462,Tobin,Flores,41,Male,routine,light,37762,Tennessee
+0463,Cassidy,Peterson,43,Female,routine,moderate,68508,Nebraska
+0464,Dorian,Lewis,54,Male,routine,moderate,45867,Ohio
+0465,Ray,Hayes,71,Male,routine,moderate,51034,Iowa
+0466,Montana,Wood,38,Female,impulse,heavy,77002,Texas
+0467,Ashley,Morgan,55,Male,routine,moderate,68124,Nebraska
+0468,Mason,Martinez,63,Male,routine,moderate,75669,Texas
+0469,Finley,Sanders,21,Male,routine,heavy,54304,Wisconsin
+0470,Robyn,Miller,77,Non-Binary,routine,moderate,53205,Wisconsin
+0471,Dana,Brown,74,Female,routine,moderate,30517,Georgia
+0472,Tatum,Hall,62,Male,impulse,moderate,31763,Georgia
+0473,Val,Brooks,37,Female,routine,moderate,54159,Wisconsin
+0474,Peace,Rivera,34,Female,routine,moderate,65443,Missouri
+0475,Remi,Morris,21,Male,impulse,moderate,29373,South Carolina
+0476,Caelan,Lewis,31,Female,impulse,moderate,32696,Florida
+0477,Kelly,Taylor,20,Female,routine,moderate,83720,Idaho
+0478,Clayton,Cooper,75,Female,impulse,light,14054,New York
+0479,Ezra,Peterson,72,Male,routine,heavy,99741,Alaska
+0480,August,Bailey,21,Female,routine,moderate,16117,Pennsylvania
+0481,Cameron,Robinson,41,Female,routine,heavy,90715,California
+0482,Kylar,Rivera,51,Male,routine,moderate,42103,Kentucky
+0483,Kelly,Turner,47,Male,routine,moderate,74001,Oklahoma
+0484,Carmen,Hayes,36,Male,impulse,moderate,17306,Pennsylvania
+0485,Blue,Johnson,48,Male,routine,moderate,41740,Kentucky
+0486,George,Carter,77,Female,routine,heavy,82431,Wyoming
+0487,Mckenzie,Nelson,77,Male,routine,moderate,16249,Pennsylvania
+0488,Brady,Foster,36,Male,routine,moderate,13842,New York
+0489,Monroe,Thomas,66,Female,routine,light,44606,Ohio
+0490,Remi,Robinson,80,Male,routine,heavy,13153,New York
+0491,Indigo,Henderson,39,Prefer Not To Say,routine,moderate,30259,Georgia
+0492,Jessie,Alexander,41,Male,routine,moderate,56229,Minnesota
+0493,Leslie,Jackson,47,Male,routine,moderate,30080,Georgia
+0494,Ramsey,Allen,75,Male,routine,heavy,78957,Texas
+0495,Reese,Morgan,48,Male,routine,moderate,94709,California
+0496,Rowan,Parker,81,Male,routine,light,48626,Michigan
+0497,Kendall,Bryant,36,Female,routine,moderate,77703,Texas
+0498,Rylan,Griffin,65,Prefer Not To Say,routine,moderate,49802,Michigan
+0499,Dana,Sanders,62,Male,routine,moderate,65788,Missouri
+0500,Andie,Barnes,72,Female,routine,heavy,56032,Minnesota
+0501,Dale,Hughes,72,Female,routine,moderate,32570,Florida
+0502,Skye,Martin,35,Female,routine,moderate,06266,Connecticut
+0503,River,Lopez,80,Male,routine,heavy,97857,Oregon
+0504,Ali,Phillips,64,Male,routine,moderate,12446,New York
+0505,MadisonÂ,Bailey,74,Male,routine,moderate,78214,Texas
+0506,Kameron,Hill,62,Female,routine,light,54556,Wisconsin
+0507,London,Adams,50,Female,routine,moderate,57059,South Dakota
+0508,Loren,Alexander,34,Male,routine,heavy,80645,Colorado
+0509,Umber,Griffin,21,Male,impulse,moderate,19367,Pennsylvania
+0510,Indigo,Wood,37,Non-Binary,routine,moderate,15539,Pennsylvania
+0511,Noel,Bell,64,Female,routine,heavy,29518,South Carolina
+0512,Alex,Sanders,32,Prefer Not To Say,routine,moderate,10969,New York
+0513,Baker,Mitchell,64,Female,routine,moderate,21208,Maryland
+0514,Linden,Gonzales,26,Male,routine,moderate,38773,Mississippi
+0515,Jude,Garcia,33,Female,routine,heavy,13620,New York
+0516,Kelsey,Foster,78,Female,routine,moderate,16321,Pennsylvania
+0517,Ray,Sanchez,27,Male,routine,heavy,87718,New Mexico
+0518,Jesse,Jenkins,67,Female,routine,moderate,42103,Kentucky
+0519,Whitney,Collins,20,Female,impulse,heavy,61764,Illinois
+0520,Cody,Alexander,68,Male,routine,light,99742,Alaska
+0521,Sidney,Hayes,36,Female,routine,moderate,96129,California
+0522,Toni,Jenkins,59,Female,routine,moderate,79081,Texas
+0523,Micah,Butler,52,Prefer Not To Say,routine,moderate,52065,Iowa
+0524,Logan,Barnes,63,Male,routine,heavy,59315,Montana
+0525,Ellis,Parker,43,Male,impulse,moderate,54846,Wisconsin
+0526,Paris,Thomas,81,Female,routine,moderate,43731,Ohio
+0527,Ashley,Sanchez,54,Male,impulse,light,56166,Minnesota
+0528,Blue,Parker,66,Female,routine,heavy,77866,Texas
+0529,Jaden,Taylor,38,Female,routine,moderate,95211,California
+0530,Maddox,Ross,81,Male,routine,moderate,42124,Kentucky
+0531,Kameron,Sanchez,22,Female,routine,moderate,07881,New Jersey
+0532,Salem,Washington,21,Female,impulse,heavy,72126,Arkansas
+0533,Reed,Turner,56,Male,impulse,moderate,44670,Ohio
+0534,Jaden,Howard,52,Non-Binary,routine,moderate,95642,California
+0535,Carroll,White,18,Female,impulse,moderate,72638,Arkansas
+0536,Kerry,Barnes,41,Female,routine,moderate,06796,Connecticut
+0537,Addison,Young,74,Female,impulse,moderate,39556,Mississippi
+0538,Nevada,Murphy,58,Female,routine,light,49201,Michigan
+0539,Nicky,Gonzalez,71,Non-Binary,routine,moderate,57213,South Dakota
+0540,Hayden,Thompson,63,Female,impulse,moderate,41003,Kentucky
+0541,Jody,Diaz,77,Female,routine,moderate,37779,Tennessee
+0542,Carroll,Torres,77,Female,routine,heavy,95650,California
+0543,Brent,Gonzalez,74,Male,impulse,light,67865,Kansas
+0544,Maddox,Miller,48,Female,routine,moderate,83841,Idaho
+0545,Leighton,Murphy,41,Male,routine,heavy,56650,Minnesota
+0546,Maddox,Anderson,53,Male,routine,moderate,06085,Connecticut
+0547,Kim,Richardson,47,Male,impulse,heavy,03291,New Hampshire
+0548,Dawson,Davis,41,Prefer Not To Say,routine,moderate,58032,North Dakota
+0549,Quinn,Mitchell,47,Female,routine,moderate,73040,Oklahoma
+0550,Parker,Cooper,24,Female,impulse,light,79754,Texas
+0551,Sidney,Ward,52,Female,routine,light,87357,New Mexico
+0552,Ripley,Baker,72,Female,routine,heavy,22191,Virginia
+0553,Lincoln,Brooks,31,Non-Binary,routine,moderate,75707,Texas
+0554,Riley,Patterson,27,Female,routine,heavy,74066,Oklahoma
+0555,Kennedy,Cook,33,Male,impulse,moderate,35765,Alabama
+0556,Ashton,Griffin,71,Male,routine,moderate,26719,West Virginia
+0557,Brighton,Allen,61,Female,impulse,moderate,76044,Texas
+0558,Robyn,Griffin,62,Female,impulse,moderate,31904,Georgia
+0559,Ari,Murphy,73,Male,routine,moderate,21240,Maryland
+0560,Keely,Jones,74,Male,routine,moderate,61234,Illinois
+0561,Addison,Roberts,38,Female,routine,light,78161,Texas
+0562,Campbell,Diaz,67,Male,impulse,light,93280,California
+0563,Storm,Jackson,50,Female,routine,moderate,58541,North Dakota
+0564,Kelly,Robinson,24,Prefer Not To Say,routine,moderate,11944,New York
+0565,Archer,Harris,32,Male,impulse,light,18417,Pennsylvania
+0566,Remington,Murphy,49,Male,routine,heavy,72955,Arkansas
+0567,Tiernan,Murphy,37,Female,impulse,moderate,72531,Arkansas
+0568,Landon,Baker,32,Female,routine,heavy,71250,Louisiana
+0569,Amory,Cooper,65,Female,routine,moderate,27054,North Carolina
+0570,Indigo,Johnson,38,Prefer Not To Say,routine,heavy,07041,New Jersey
+0571,Lincoln,Young,59,Male,routine,moderate,42050,Kentucky
+0572,Elliott,Carter,43,Female,routine,moderate,15623,Pennsylvania
+0573,Jude,Perry,31,Female,impulse,moderate,71801,Arkansas
+0574,Monroe,Sanchez,74,Female,routine,light,65232,Missouri
+0575,Max,Baker,54,Male,routine,moderate,49067,Michigan
+0576,Bailey,Morgan,75,Female,routine,moderate,97111,Oregon
+0577,Reed,Coleman,38,Female,routine,moderate,90640,California
+0578,Bowie,Roberts,20,Male,routine,heavy,19013,Pennsylvania
+0579,Rio,James,54,Male,routine,moderate,16344,Pennsylvania
+0580,Nico,Simmons,66,Female,routine,light,15757,Pennsylvania
+0581,Kelsey,Foster,36,Male,routine,moderate,97862,Oregon
+0582,Paisley,Stewart,29,Male,routine,heavy,44149,Ohio
+0583,Quincy,Young,78,Male,routine,moderate,95679,California
+0584,Reed,Perez,58,Female,routine,moderate,93960,California
+0585,Sage,Kelly,50,Female,routine,moderate,37374,Tennessee
+0586,Briar,Perry,67,Female,routine,light,60941,Illinois
+0587,Billy,Davis,50,Male,impulse,moderate,67150,Kansas
+0588,Skye,Edwards,41,Female,routine,moderate,54562,Wisconsin
+0589,Denver,Watson,78,Female,routine,light,49238,Michigan
+0590,Spencer,Wright,78,Female,impulse,moderate,79925,Texas
+0591,Nova,Williams,45,Non-Binary,impulse,moderate,01029,Massachusetts
+0592,Andy,Smith,75,Male,routine,heavy,49870,Michigan
+0593,Venice,Brooks,60,Female,routine,heavy,60435,Illinois
+0594,Salem,Martinez,58,Male,routine,moderate,53964,Wisconsin
+0595,Shiloh,Harris,56,Female,routine,moderate,72021,Arkansas
+0596,Alex,Cox,66,Male,routine,moderate,11598,New York
+0597,Honour,Price,34,Male,routine,heavy,84121,Utah
+0598,Wesley,Martin,82,Male,impulse,heavy,75497,Texas
+0599,Charley,Barnes,22,Female,impulse,moderate,95553,California
+0600,Kendall,Reed,19,Male,routine,heavy,82055,Wyoming
+0601,Remington,Rogers,39,Female,routine,moderate,48073,Michigan
+0602,Rylan,Thomas,74,Male,impulse,heavy,80249,Colorado
+0603,Mason,Evans,83,Male,routine,heavy,65484,Missouri
+0604,Teagan,Harris,33,Female,impulse,moderate,04551,Maine
+0605,Tyler,Perez,68,Male,routine,moderate,66725,Kansas
+0606,Chance,Morgan,56,Male,routine,moderate,59930,Montana
+0607,Ray,Scott,57,Female,routine,moderate,14214,New York
+0608,Umber,Sanders,55,Male,routine,moderate,47638,Indiana
+0609,Mason,Allen,77,Male,routine,moderate,37374,Tennessee
+0610,Evelyn,Flores,76,Male,routine,moderate,69143,Nebraska
+0611,Frankie,Parker,27,Non-Binary,routine,light,38834,Mississippi
+0612,Ezra,Foster,81,Female,routine,heavy,61024,Illinois
+0613,Alfie,Peterson,80,Female,routine,light,12183,New York
+0614,Nova,Wilson,66,Female,routine,heavy,64724,Missouri
+0615,Jessie,Mitchell,81,Male,routine,moderate,68064,Nebraska
+0616,Storm,Morgan,49,Male,routine,moderate,71342,Louisiana
+0617,Aubrey,Allen,24,Female,impulse,light,43140,Ohio
+0618,Cameron,Howard,38,Male,impulse,moderate,44714,Ohio
+0619,Linden,Hill,37,Male,routine,moderate,16362,Pennsylvania
+0620,Paris,Williams,43,Male,routine,light,16350,Pennsylvania
+0621,Devin,Foster,32,Male,routine,moderate,73571,Oklahoma
+0622,Kelsey,Barnes,31,Prefer Not To Say,impulse,moderate,14174,New York
+0623,Drew,Walker,44,Male,routine,moderate,15064,Pennsylvania
+0624,Darby,Peterson,57,Female,routine,moderate,59014,Montana
+0625,Addison,Rogers,75,Male,routine,heavy,49028,Michigan
+0626,Brooks,Sanders,45,Prefer Not To Say,routine,heavy,60555,Illinois
+0627,Maddox,Williams,43,Male,routine,moderate,54201,Wisconsin
+0628,Payton,Collins,80,Male,routine,moderate,20754,Maryland
+0629,Sunny,Allen,83,Female,routine,light,03254,New Hampshire
+0630,Wallace,Harris,42,Female,routine,light,87547,New Mexico
+0631,Billie,Reed,20,Male,routine,moderate,04087,Maine
+0632,Emery,Gonzales,61,Male,routine,moderate,95225,California
+0633,Corey,Carter,59,Male,routine,moderate,43786,Ohio
+0634,Blue,Hill,23,Male,impulse,heavy,42728,Kentucky
+0635,Kyrie,Parker,56,Male,impulse,moderate,93541,California
+0636,Shay,Perry,69,Female,routine,moderate,64873,Missouri
+0637,Lennox,Hayes,40,Male,routine,moderate,52305,Iowa
+0638,Henry,Moore,67,Male,routine,moderate,12304,New York
+0639,Storm,Martinez,60,Female,impulse,moderate,54126,Wisconsin
+0640,Tennessee,Hernandez,36,Prefer Not To Say,routine,moderate,79789,Texas
+0641,Campbell,Sanders,68,Female,routine,moderate,72824,Arkansas
+0642,Royal,Wood,28,Male,impulse,moderate,66076,Kansas
+0643,Regan,Long,29,Male,routine,heavy,13650,New York
+0644,Shiloh,Johnson,25,Prefer Not To Say,impulse,moderate,98439,Washington
+0645,Hadley,Hughes,41,Male,routine,moderate,75765,Texas
+0646,Sloane,Scott,58,Male,routine,moderate,90037,California
+0647,Perry,Anderson,53,Female,routine,moderate,93551,California
+0648,Ripley,Barnes,72,Female,routine,heavy,32080,Florida
+0649,Charlie,Nelson,26,Female,routine,heavy,15742,Pennsylvania
+0650,Dallas,Roberts,64,Male,routine,moderate,04693,Maine
+0651,Flynn,Scott,32,Male,impulse,light,38108,Tennessee
+0652,Nico,Stewart,65,Prefer Not To Say,impulse,moderate,32792,Florida
+0653,Sidney,Evans,59,Male,routine,moderate,31022,Georgia
+0654,Rene,Gonzales,77,Female,routine,moderate,74947,Oklahoma
+0655,Windsor,Barnes,29,Female,routine,moderate,01937,Massachusetts
+0656,Evelyn,Turner,19,Female,routine,moderate,63735,Missouri
+0657,Venice,Bryant,24,Male,routine,moderate,59920,Montana
+0658,Shawn,Martinez,20,Male,routine,moderate,04677,Maine
+0659,Lindsay,Cooper,20,Female,routine,moderate,70460,Louisiana
+0660,Bay,Anderson,44,Female,routine,heavy,97335,Oregon
+0661,Shae,Hall,57,Non-Binary,routine,light,49242,Michigan
+0662,Gabriel,Flores,50,Male,routine,light,68050,Nebraska
+0663,Brooks,Richardson,18,Male,impulse,moderate,45168,Ohio
+0664,Delta,Rodriguez,25,Non-Binary,impulse,heavy,01821,Massachusetts
+0665,Jessie,Wilson,49,Female,routine,moderate,12461,New York
+0666,Valentine,Anderson,65,Female,routine,heavy,95412,California
+0667,Julian,Long,21,Male,impulse,heavy,08027,New Jersey
+0668,Milan,Ward,36,Female,routine,moderate,75961,Texas
+0669,Tobin,Hughes,49,Female,routine,light,71375,Louisiana
+0670,Clayton,Rodriguez,26,Female,routine,light,36861,Alabama
+0671,Billie,Parker,29,Male,impulse,moderate,67836,Kansas
+0672,Sydney,Gonzalez,28,Male,impulse,heavy,52533,Iowa
+0673,Cameron,Allen,63,Female,routine,moderate,23398,Virginia
+0674,Payton,Cooper,33,Male,routine,moderate,02054,Massachusetts
+0675,Jaden,Mitchell,18,Female,routine,moderate,81228,Colorado
+0676,Rowan,Perez,80,Prefer Not To Say,routine,moderate,62297,Illinois
+0677,Brennan,Gray,38,Male,impulse,moderate,66425,Kansas
+0678,Sage,Long,47,Female,impulse,moderate,62672,Illinois
+0679,Grey,Simmons,30,Male,routine,heavy,89044,Nevada
+0680,Shawn,Collins,51,Female,impulse,moderate,97345,Oregon
+0681,Kylar,Richardson,21,Prefer Not To Say,routine,moderate,33028,Florida
+0682,Michael,Adams,45,Male,routine,heavy,59273,Montana
+0683,Emery,Clark,76,Male,impulse,moderate,24437,Virginia
+0684,Amory,Cooper,44,Male,impulse,moderate,48891,Michigan
+0685,Milan,Russell,42,Male,routine,moderate,10461,New York
+0686,True,Johnson,20,Female,routine,heavy,56226,Minnesota
+0687,Noelle,Russell,42,Non-Binary,impulse,heavy,46176,Indiana
+0688,Noelle,Richardson,37,Male,routine,moderate,54901,Wisconsin
+0689,Lake,Nelson,51,Male,routine,moderate,12059,New York
+0690,Ember,Bailey,43,Male,routine,moderate,69216,Nebraska
+0691,Leighton,Richardson,22,Female,routine,moderate,84320,Utah
+0692,Casey,Nelson,78,Male,routine,moderate,43759,Ohio
+0693,Indigo,Cook,26,Female,routine,moderate,45782,Ohio
+0694,Brooks,Sanchez,67,Female,routine,moderate,07758,New Jersey
+0695,Tori,Henderson,23,Female,routine,moderate,43027,Ohio
+0696,Alex,Martinez,77,Male,routine,moderate,16229,Pennsylvania
+0697,Ellison,Washington,61,Female,impulse,heavy,27869,North Carolina
+0698,Loren,Allen,28,Male,impulse,moderate,98524,Washington
+0699,Athena,Harris,83,Male,routine,moderate,83631,Idaho
+0700,Addison,Griffin,64,Female,routine,light,52209,Iowa
+0701,Jessie,Walker,20,Female,routine,moderate,97134,Oregon
+0702,Robyn,King,47,Male,routine,light,60552,Illinois
+0703,Archer,Baker,38,Male,routine,light,87112,New Mexico
+0704,Briar,Price,45,Male,routine,moderate,62969,Illinois
+0705,Billie,Coleman,79,Male,routine,moderate,83404,Idaho
+0706,Darby,Davis,50,Male,routine,moderate,17970,Pennsylvania
+0707,Rayne,Moore,52,Male,impulse,light,60957,Illinois
+0708,Dakota,Davis,69,Female,impulse,moderate,72023,Arkansas
+0709,Tyler,Green,51,Female,routine,heavy,13756,New York
+0710,Shawn,Bryant,58,Female,impulse,moderate,63343,Missouri
+0711,Brighton,Cooper,68,Female,routine,heavy,61410,Illinois
+0712,Hunter,Rodriguez,64,Male,routine,moderate,23663,Virginia
+0713,Raleigh,Gonzalez,75,Prefer Not To Say,routine,moderate,60946,Illinois
+0714,Rylan,Wilson,74,Female,impulse,moderate,83340,Idaho
+0715,Carmel,Scott,40,Female,routine,moderate,48104,Michigan
+0716,Gene,Howard,65,Female,routine,moderate,40242,Kentucky
+0717,Britton,Simmons,39,Non-Binary,routine,heavy,52584,Iowa
+0718,Casey,Bennett,34,Female,routine,moderate,75076,Texas
+0719,Avery,Perry,28,Male,routine,moderate,17038,Pennsylvania
+0720,Whitney,Bennett,32,Female,routine,moderate,24318,Virginia
+0721,Sterling,Miller,52,Female,routine,moderate,45352,Ohio
+0722,Amory,Baker,50,Female,impulse,heavy,77459,Texas
+0723,Harley,Perry,33,Female,routine,moderate,95525,California
+0724,Skye,Perez,51,Male,routine,moderate,95915,California
+0725,Mckenna,Jones,83,Male,routine,moderate,08021,New Jersey
+0726,Perry,Davis,57,Non-Binary,routine,heavy,49508,Michigan
+0727,James,Brooks,45,Female,routine,moderate,78212,Texas
+0728,Carmel,Sanchez,64,Female,routine,moderate,55969,Minnesota
+0729,Raleigh,Cook,56,Male,routine,moderate,33850,Florida
+0730,Ari,Williams,37,Male,routine,moderate,90292,California
+0731,Bailey,Rodriguez,18,Female,routine,moderate,68849,Nebraska
+0732,Darby,Sanders,80,Female,routine,light,14213,New York
+0733,Raphael,White,84,Female,routine,light,61108,Illinois
+0734,Kyrie,Baker,21,Female,routine,moderate,17097,Pennsylvania
+0735,Ari,Turner,75,Female,routine,moderate,32465,Florida
+0736,Montana,Thomas,42,Male,impulse,moderate,60188,Illinois
+0737,Ali,Patterson,64,Female,routine,moderate,86305,Arizona
+0738,Aiden,Thomas,55,Male,routine,heavy,19930,Delaware
+0739,Grey,Jackson,32,Male,routine,moderate,18045,Pennsylvania
+0740,Ryder,Reed,80,Female,routine,moderate,42211,Kentucky
+0741,Rylan,Hall,38,Non-Binary,routine,heavy,23511,Virginia
+0742,Toby,Edwards,74,Male,routine,moderate,44611,Ohio
+0743,Windsor,Ramirez,70,Female,routine,moderate,33852,Florida
+0744,Riley,Hayes,63,Male,routine,moderate,11379,New York
+0745,Ariel,Hall,31,Male,impulse,moderate,78236,Texas
+0746,Nico,Wilson,34,Male,routine,heavy,82638,Wyoming
+0747,Honour,Foster,56,Male,routine,heavy,24946,West Virginia
+0748,Bailey,Peterson,26,Female,routine,moderate,44815,Ohio
+0749,Paris,Ramirez,23,Male,routine,moderate,27109,North Carolina
+0750,Blue,Cooper,40,Female,routine,moderate,50173,Iowa
+0751,Tobin,Ward,76,Non-Binary,routine,heavy,25932,West Virginia
+0752,Roan,Walker,63,Male,routine,heavy,29935,South Carolina
+0753,Dylan,Turner,55,Female,routine,light,16727,Pennsylvania
+0754,Jaden,Lopez,31,Male,routine,moderate,33409,Florida
+0755,Zephyr,Evans,79,Female,routine,moderate,18056,Pennsylvania
+0756,August,Phillips,52,Male,impulse,heavy,58535,North Dakota
+0757,Kelsey,Sanchez,36,Male,routine,moderate,39532,Mississippi
+0758,Arden,Garcia,47,Male,impulse,moderate,23420,Virginia
+0759,Quincy,Alexander,42,Male,impulse,moderate,55111,Minnesota
+0760,August,James,57,Male,routine,heavy,43302,Ohio
+0761,Clay,Kelly,31,Female,impulse,moderate,58237,North Dakota
+0762,Chris,Williams,43,Female,impulse,moderate,47948,Indiana
+0763,Robyn,Bell,39,Female,routine,moderate,72358,Arkansas
+0764,George,Adams,65,Female,impulse,moderate,87326,New Mexico
+0765,Kendall,Martin,68,Male,impulse,moderate,21676,Maryland
+0766,Grey,Price,20,Male,routine,heavy,99333,Washington
+0767,Rio,Foster,59,Male,impulse,moderate,49724,Michigan
+0768,Grey,Gray,36,Male,routine,moderate,66854,Kansas
+0769,Billie,Wood,45,Female,impulse,moderate,63851,Missouri
+0770,Grey,Mitchell,62,Female,routine,moderate,08203,New Jersey
+0771,Tate,Russell,80,Male,routine,heavy,03890,New Hampshire
+0772,Royal,Miller,36,Male,routine,moderate,42038,Kentucky
+0773,Devin,Gonzalez,64,Female,routine,moderate,60560,Illinois
+0774,Brady,King,31,Female,routine,moderate,48754,Michigan
+0775,Finn,Gonzales,55,Male,routine,moderate,14510,New York
+0776,Alfie,Powell,70,Non-Binary,impulse,heavy,04092,Maine
+0777,Mckenna,Rivera,78,Prefer Not To Say,routine,moderate,65024,Missouri
+0778,Tyler,Brooks,53,Male,routine,moderate,49650,Michigan
+0779,Rene,Price,57,Male,routine,moderate,30170,Georgia
+0780,Ripley,Rogers,47,Female,impulse,light,58718,North Dakota
+0781,Wesley,Collins,26,Non-Binary,routine,moderate,43906,Ohio
+0782,Kit,Garcia,81,Female,routine,heavy,61468,Illinois
+0783,Tori,Jones,50,Male,impulse,moderate,56134,Minnesota
+0784,Ocean,Simmons,69,Male,routine,heavy,48059,Michigan
+0785,Cody,Collins,31,Female,impulse,heavy,91948,California
+0786,Hadley,Sanders,70,Female,routine,moderate,72205,Arkansas
+0787,Ainsley,Rogers,76,Male,routine,light,97138,Oregon
+0788,Emery,Howard,58,Female,routine,heavy,25071,West Virginia
+0789,Kyle,King,25,Female,routine,moderate,14543,New York
+0790,Jules,Ward,19,Female,routine,heavy,39108,Mississippi
+0791,Shae,Alexander,58,Female,routine,moderate,14480,New York
+0792,Sam,Thompson,72,Female,routine,moderate,44130,Ohio
+0793,Bellamy,Griffin,33,Male,routine,moderate,89450,Nevada
+0794,Bobby,Hayes,79,Female,routine,moderate,10530,New York
+0795,Ripley,Henderson,65,Male,impulse,moderate,79848,Texas
+0796,Blaine,Mitchell,47,Female,routine,light,54926,Wisconsin
+0797,Remi,Cox,29,Male,impulse,moderate,59047,Montana
+0798,Alfie,Thompson,52,Female,routine,moderate,76059,Texas
+0799,Reed,Davis,28,Male,routine,light,68410,Nebraska
+0800,Dallas,Robinson,81,Male,routine,heavy,46933,Indiana
+0801,Ainsley,Lewis,67,Male,routine,moderate,70805,Louisiana
+0802,Jody,Brooks,38,Male,routine,moderate,84539,Utah
+0803,Henry,Thomas,65,Female,routine,heavy,81054,Colorado
+0804,Emerson,Williams,37,Female,routine,moderate,24430,Virginia
+0805,Cassidy,Evans,84,Female,impulse,moderate,14591,New York
+0806,Noel,Clark,61,Male,routine,moderate,12037,New York
+0807,Parker,Stewart,50,Male,routine,moderate,13646,New York
+0808,Avery,Harris,78,Male,routine,moderate,77622,Texas
+0809,Maddox,Russell,26,Male,routine,moderate,18073,Pennsylvania
+0810,Zephyr,Diaz,52,Female,routine,moderate,24129,Virginia
+0811,Jessie,Cook,82,Male,routine,moderate,53214,Wisconsin
+0812,Henry,Wilson,25,Male,impulse,heavy,43162,Ohio
+0813,Toni,Hayes,62,Male,routine,moderate,49424,Michigan
+0814,Quincy,Gonzales,64,Male,routine,heavy,59418,Montana
+0815,Remy,Patterson,57,Female,impulse,moderate,23357,Virginia
+0816,Ashton,Lewis,71,Female,routine,moderate,22473,Virginia
+0817,Harley,Walker,63,Male,routine,moderate,52804,Iowa
+0818,Kai,White,64,Male,routine,moderate,54763,Wisconsin
+0819,Brighton,Carter,32,Male,routine,moderate,32222,Florida
+0820,Addison,Johnson,36,Male,impulse,moderate,59262,Montana
+0821,Elliott,Garcia,43,Male,routine,heavy,07666,New Jersey
+0822,Keegan,Wright,69,Prefer Not To Say,impulse,moderate,50578,Iowa
+0823,Blake,Martinez,39,Female,routine,moderate,66060,Kansas
+0824,Wilder,Rodriguez,38,Female,routine,heavy,73075,Oklahoma
+0825,Kaden,Bennett,68,Male,routine,moderate,98526,Washington
+0826,Storm,Sanders,55,Male,impulse,heavy,40840,Kentucky
+0827,Lennon,White,37,Female,routine,moderate,60014,Illinois
+0828,Max,Flores,46,Female,routine,heavy,56158,Minnesota
+0829,Andy,Perry,68,Female,impulse,heavy,16232,Pennsylvania
+0830,Sutton,Johnson,21,Male,routine,heavy,37659,Tennessee
+0831,Julian,Lopez,72,Female,routine,light,81154,Colorado
+0832,Mackenzie,Parker,45,Male,routine,heavy,33414,Florida
+0833,Arden,Flores,21,Female,impulse,moderate,47942,Indiana
+0834,London,Bell,39,Female,impulse,heavy,55955,Minnesota
+0835,Jayden,Henderson,62,Female,routine,light,83638,Idaho
+0836,Dorian,Martin,84,Male,routine,heavy,16133,Pennsylvania
+0837,Finn,Brown,83,Female,impulse,light,70363,Louisiana
+0838,Tobin,Ross,51,Male,impulse,moderate,52154,Iowa
+0839,Tatum,Clark,72,Male,routine,heavy,18419,Pennsylvania
+0840,Blake,Gonzalez,18,Male,routine,moderate,41563,Kentucky
+0841,Emerson,James,55,Female,impulse,moderate,38553,Tennessee
+0842,Emery,Thompson,23,Male,routine,moderate,05678,Vermont
+0843,Clayton,Hall,42,Male,routine,moderate,91801,California
+0844,Royal,Morris,34,Female,impulse,light,54428,Wisconsin
+0845,Jules,Young,78,Male,routine,moderate,02176,Massachusetts
+0846,Dana,Rivera,29,Female,routine,moderate,98403,Washington
+0847,Billy,Anderson,23,Male,routine,moderate,60099,Illinois
+0848,Addison,Taylor,44,Male,routine,moderate,65336,Missouri
+0849,Winter,Coleman,25,Female,routine,moderate,97498,Oregon
+0850,Carter,White,82,Male,routine,moderate,25243,West Virginia
+0851,Teagan,Perez,74,Female,routine,moderate,07058,New Jersey
+0852,Ripley,Adams,57,Female,routine,light,90403,California
+0853,Teri,Foster,31,Female,routine,heavy,93665,California
+0854,Venice,Taylor,52,Female,impulse,moderate,36446,Alabama
+0855,Weston,Gonzalez,65,Male,impulse,moderate,62815,Illinois
+0856,Quinn,Gonzales,73,Male,routine,moderate,99301,Washington
+0857,Linden,Smith,66,Female,routine,heavy,61282,Illinois
+0858,Alex,Brown,30,Female,impulse,moderate,73931,Oklahoma
+0859,Darby,Collins,78,Female,routine,moderate,28137,North Carolina
+0860,Cassidy,Wilson,66,Female,routine,moderate,59754,Montana
+0861,Jesse,Lee,63,Female,routine,moderate,97639,Oregon
+0862,Eden,Gonzalez,79,Female,impulse,moderate,48095,Michigan
+0863,Ryan,Smith,25,Male,routine,heavy,83223,Idaho
+0864,Brady,Watson,60,Female,routine,heavy,29172,South Carolina
+0865,Eden,Barnes,37,Female,routine,light,44072,Ohio
+0866,Winter,Perry,56,Male,routine,heavy,71497,Louisiana
+0867,Wynn,Bell,66,Female,impulse,moderate,43085,Ohio
+0868,Francis,Garcia,81,Female,routine,moderate,33020,Florida
+0869,Ari,Young,79,Female,routine,moderate,87931,New Mexico
+0870,Wallace,Gonzalez,71,Male,impulse,heavy,77012,Texas
+0871,Maxwell,Garcia,26,Male,routine,moderate,58043,North Dakota
+0872,Jade,King,54,Female,routine,moderate,50420,Iowa
+0873,Aubrey,Walker,66,Non-Binary,routine,light,92692,California
+0874,Chance,James,58,Male,routine,heavy,15684,Pennsylvania
+0875,Keely,Bell,34,Male,impulse,moderate,50657,Iowa
+0876,Kylin,Mitchell,38,Female,routine,moderate,96728,Hawaii
+0877,Kelsey,Davis,68,Male,routine,moderate,23040,Virginia
+0878,Remy,Price,76,Female,routine,moderate,77960,Texas
+0879,Francis,Collins,56,Prefer Not To Say,routine,moderate,72553,Arkansas
+0880,Francis,Carter,72,Male,routine,moderate,60401,Illinois
+0881,Blue,Johnson,58,Female,routine,moderate,98422,Washington
+0882,Ocean,Green,56,Male,routine,moderate,39565,Mississippi
+0883,Jody,Garcia,30,Male,routine,moderate,53812,Wisconsin
+0884,Chris,Collins,81,Female,routine,heavy,96014,California
+0885,Maxwell,Cook,28,Male,routine,heavy,61234,Illinois
+0886,Brady,Murphy,36,Prefer Not To Say,routine,heavy,44216,Ohio
+0887,Ariel,Smith,28,Female,routine,heavy,44049,Ohio
+0888,Grey,Martin,63,Male,routine,moderate,04108,Maine
+0889,Lane,Lopez,62,Male,routine,moderate,45032,Ohio
+0890,Wesley,Kelly,18,Male,routine,moderate,77466,Texas
+0891,Roan,Wright,57,Male,routine,moderate,88348,New Mexico
+0892,Lane,Richardson,36,Male,routine,heavy,47042,Indiana
+0893,Blake,Ward,78,Male,routine,moderate,21851,Maryland
+0894,Erin,Carter,29,Female,routine,heavy,72004,Arkansas
+0895,Wesley,Thomas,78,Female,impulse,light,34990,Florida
+0896,Skylar,Collins,50,Female,impulse,moderate,95694,California
+0897,Nolan,Peterson,62,Female,routine,light,80474,Colorado
+0898,Dylan,Hughes,25,Male,routine,moderate,95223,California
+0899,Andy,Lee,42,Male,impulse,moderate,52033,Iowa
+0900,Alex,Griffin,63,Female,impulse,moderate,83352,Idaho
+0901,Jack,Flores,47,Female,impulse,heavy,52738,Iowa
+0902,Henry,Howard,64,Male,routine,moderate,02322,Massachusetts
+0903,Windsor,Murphy,66,Female,routine,light,62899,Illinois
+0904,Lee,Watson,64,Female,routine,heavy,35620,Alabama
+0905,Rio,Robinson,35,Female,routine,moderate,39652,Mississippi
+0906,Raphael,Bryant,83,Male,routine,moderate,64078,Missouri
+0907,Milan,James,50,Female,routine,moderate,19001,Pennsylvania
+0908,Ariel,Lee,53,Female,routine,light,46350,Indiana
+0909,Lane,Howard,36,Female,impulse,moderate,28711,North Carolina
+0910,Jude,Morris,45,Female,routine,moderate,05858,Vermont
+0911,Sutton,Walker,57,Female,routine,moderate,72802,Arkansas
+0912,Lane,Martinez,32,Female,routine,moderate,50152,Iowa
+0913,Brighton,Perry,58,Male,impulse,light,27954,North Carolina
+0914,Maddox,Morris,56,Female,impulse,moderate,28411,North Carolina
+0915,Jayden,Hall,19,Female,impulse,moderate,31803,Georgia
+0916,Emery,Torres,80,Female,routine,moderate,92251,California
+0917,Harper,Perez,46,Male,routine,moderate,15218,Pennsylvania
+0918,Sam,Howard,83,Male,impulse,moderate,96155,California
+0919,Whitney,Wilson,68,Female,routine,moderate,80601,Colorado
+0920,Tyler,Powell,27,Female,routine,moderate,50655,Iowa
+0921,Wyatt,Smith,31,Non-Binary,impulse,heavy,37617,Tennessee
+0922,Umber,Wilson,68,Female,routine,moderate,28449,North Carolina
+0923,Clayton,Murphy,56,Female,routine,moderate,19087,Pennsylvania
+0924,Kerry,Alexander,45,Female,routine,heavy,02717,Massachusetts
+0925,Angel,Brown,20,Female,routine,heavy,05494,Vermont
+0926,Skylar,Long,44,Female,routine,moderate,77334,Texas
+0927,Blake,Young,19,Female,impulse,heavy,35765,Alabama
+0928,Jody,Cox,55,Male,routine,moderate,28073,North Carolina
+0929,Paige,Ross,20,Female,routine,moderate,48329,Michigan
+0930,Aubrey,Ramirez,33,Female,routine,light,24089,Virginia
+0931,Rayne,Washington,57,Male,impulse,moderate,92371,California
+0932,Kameron,Lee,19,Male,impulse,light,60481,Illinois
+0933,Francis,Adams,58,Male,impulse,moderate,42629,Kentucky
+0934,Piper,Bailey,29,Male,impulse,moderate,16674,Pennsylvania
+0935,Grey,Turner,52,Male,routine,moderate,81226,Colorado
+0936,Francis,Parker,82,Male,routine,moderate,70377,Louisiana
+0937,Lou,Cook,72,Non-Binary,routine,moderate,47871,Indiana
+0938,Jessie,Wilson,62,Female,routine,heavy,25248,West Virginia
+0939,Wilder,Young,79,Male,routine,moderate,24128,Virginia
+0940,James,Gonzalez,66,Male,impulse,heavy,20871,Maryland
+0941,Gabriel,Butler,42,Female,routine,moderate,90039,California
+0942,Ellison,Scott,40,Male,routine,heavy,88264,New Mexico
+0943,Vick,Flores,41,Female,routine,moderate,03255,New Hampshire
+0944,Brooks,Allen,55,Female,routine,moderate,83215,Idaho
+0945,Baker,Jenkins,45,Female,routine,heavy,27330,North Carolina
+0946,Winter,Richardson,38,Male,routine,moderate,31028,Georgia
+0947,Wisdom,Smith,71,Female,routine,moderate,17050,Pennsylvania
+0948,Raleigh,Edwards,35,Male,routine,moderate,21222,Maryland
+0949,Teagan,Rivera,53,Non-Binary,routine,moderate,60951,Illinois
+0950,Sterling,Perez,62,Female,routine,moderate,23668,Virginia
+0951,Finn,White,70,Male,impulse,moderate,30562,Georgia
+0952,Glen,Peterson,47,Male,routine,moderate,36703,Alabama
+0953,Micah,Hernandez,77,Male,impulse,moderate,70580,Louisiana
+0954,Addison,Wright,49,Female,routine,heavy,29322,South Carolina
+0955,Carey,Washington,84,Male,routine,moderate,37338,Tennessee
+0956,Kim,Bennett,84,Female,routine,moderate,33174,Florida
+0957,Jules,Simmons,45,Male,routine,heavy,25571,West Virginia
+0958,Paris,Henderson,61,Female,routine,moderate,07764,New Jersey
+0959,Hayden,Barnes,58,Female,routine,moderate,19562,Pennsylvania
+0960,Kyrie,Lopez,80,Female,routine,moderate,74735,Oklahoma
+0961,Weston,Wood,40,Female,routine,heavy,25154,West Virginia
+0962,Chance,Green,65,Male,routine,moderate,27006,North Carolina
+0963,Sasha,Richardson,49,Male,routine,moderate,57722,South Dakota
+0964,August,Rodriguez,74,Female,routine,moderate,52209,Iowa
+0965,Elliott,Flores,50,Male,routine,moderate,74761,Oklahoma
+0966,Dallas,Hernandez,41,Male,routine,moderate,04746,Maine
+0967,Windsor,Jackson,56,Male,routine,moderate,71322,Louisiana
+0968,Piper,Green,51,Male,impulse,moderate,63348,Missouri
+0969,Arya,Nelson,73,Male,impulse,light,18088,Pennsylvania
+0970,Jamie,Rivera,45,Female,impulse,moderate,14139,New York
+0971,Shiloh,Baker,54,Male,routine,moderate,49276,Michigan
+0972,Maxwell,Jenkins,24,Female,routine,moderate,71326,Louisiana
+0973,Micah,Griffin,54,Male,routine,heavy,55029,Minnesota
+0974,Kyle,Jones,73,Female,routine,heavy,75212,Texas
+0975,August,Edwards,82,Male,routine,moderate,98819,Washington
+0976,Mckenna,Lopez,82,Female,routine,moderate,73654,Oklahoma
+0977,Ocean,Griffin,64,Female,routine,light,97641,Oregon
+0978,Lennon,Turner,37,Male,routine,moderate,48066,Michigan
+0979,Mason,Jackson,36,Non-Binary,routine,heavy,92782,California
+0980,Valentine,Morris,46,Prefer Not To Say,routine,moderate,47942,Indiana
+0981,Chance,Phillips,77,Female,routine,moderate,15742,Pennsylvania
+0982,Kit,Baker,35,Female,routine,moderate,39571,Mississippi
+0983,Kyrie,Smith,52,Male,routine,moderate,78861,Texas
+0984,Landon,Hughes,60,Female,routine,moderate,85929,Arizona
+0985,Brooke,Gray,28,Male,impulse,moderate,52751,Iowa
+0986,Dorian,Hill,66,Male,routine,moderate,57197,South Dakota
+0987,Mason,Flores,55,Prefer Not To Say,routine,moderate,54827,Wisconsin
+0988,Kerry,Powell,81,Male,routine,light,74437,Oklahoma
+0989,Henry,Harris,25,Female,impulse,heavy,78837,Texas
+0990,Chance,Ross,51,Female,routine,heavy,30276,Georgia
+0991,Murphy,Gonzalez,65,Female,routine,heavy,63783,Missouri
+0992,Brooke,Hill,73,Prefer Not To Say,impulse,moderate,81029,Colorado
+0993,Sterling,Harris,82,Male,routine,moderate,18816,Pennsylvania
+0994,Remington,Stewart,48,Male,impulse,moderate,30009,Georgia
+0995,Kameron,Edwards,21,Male,impulse,light,38128,Tennessee
+0996,Ramsey,Sanders,67,Male,impulse,light,38753,Mississippi
+0997,Poet,Foster,47,Male,impulse,moderate,21405,Maryland
+0998,Bergen,Flores,76,Male,routine,moderate,56128,Minnesota
+0999,Leah,Richardson,84,Female,impulse,moderate,92260,California
+1000,Valentine,King,62,Female,routine,light,62970,Illinois

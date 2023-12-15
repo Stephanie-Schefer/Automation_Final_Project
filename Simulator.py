@@ -9,9 +9,26 @@ import random
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta, date
 import os
+import warnings
+
+# Ignore all warnings
+warnings.filterwarnings("ignore")
 
 class DataImporter:
-    def __init__(self, file_directory = 'Data', first = 'GenderNeutralNames.csv',last ='LastNames.csv',zips = 'uszips.csv'):
+    """
+    A class for importing and processing data related to names and zip codes.
+
+    Parameters:
+    - file_directory (str): The directory where the files are located. Default is 'Data'.
+    - first (str): The filename for the first names CSV file. Default is 'GenderNeutralNames.csv'.
+    - last (str): The filename for the last names CSV file. Default is 'LastNames.csv'.
+    - zips (str): The filename for the zip codes CSV file. Default is 'uszips.csv'.
+    """
+    def __init__(self, 
+                 file_directory = 'Data', 
+                 first = 'GenderNeutralNames.csv',
+                 last ='LastNames.csv',
+                 zips = 'uszips.csv'):
         self.directory = file_directory
         self.file_first = first
         self.file_last = last
@@ -56,14 +73,38 @@ class DataImporter:
         # get zip code list
         zips = pd.read_csv(file_name)
         continental_zips_df = zips[~zips['state_name'].isin(['Puerto Rico','Virgin Islands'])]
-        continental_zips_df['zip_6'] = continental_zips_df['zip'].apply(lambda x: '{:05}'.format(x)) #astype(str).str.zfill(5)
-        zip_list = list(continental_zips_df.zip_6)
+        # Assuming continental_zips_df is your DataFrame
+        continental_zips_df['zip_6']=continental_zips_df['zip']
+        continental_zips_df_copy = continental_zips_df.copy()
+        continental_zips_df_copy.loc[:, 'zip_6'] = continental_zips_df_copy['zip'].astype(str).str.zfill(5)
+
+ #astype(str).str.zfill(5)
+        zip_list = list(continental_zips_df_copy.zip_6.dropna())
         return zip_list   
     
     
-#class DataSaver:
- #   @staticmethod
+
 def save_data_to_csv(data, filename_prefix, directory="Data"):
+    
+    """
+    Saves the provided data to a CSV file.
+
+    Parameters:
+    - data (pandas DataFrame): The data to be saved to CSV.
+    - filename_prefix (str): The prefix for the CSV file name.
+    - directory (str): Directory path where the file will be saved. Default is 'Data'.
+
+    Returns:
+    - None
+
+    Description:
+    This function creates a directory (if it doesn't exist) in the specified location. It constructs
+    the file path by combining the directory path and the filename with the given prefix. Then, it saves
+    the provided data as a CSV file without including the index and prints a confirmation message
+    indicating the file path where the data has been saved.
+    """
+    
+    
    # Create the directory if it doesn't exist
     if not os.path.exists(directory):
         os.makedirs(directory)
@@ -74,9 +115,19 @@ def save_data_to_csv(data, filename_prefix, directory="Data"):
     # Save the data to CSV
     data.to_csv(file_path, index=False)
     print(f"Data saved to {file_path}")
-   
- # @staticmethod
+
 def delete_sim_files(simulation_versions=None, directory='Data\Simulations'):
+    """
+    Deletes simulation-related files within a specified directory based on given conditions.
+
+    Parameters:
+    - simulation_versions (list or None): List of simulation versions or None. If None, deletes all files
+      starting with 'transactions_details_s' or 'transactions_s'. Default is None.
+    - directory (str): Directory path where the files are located. Default is 'Data\Simulations'.
+
+    Returns:
+    - None
+    """
     files_to_delete=[]
 
     # get all files in directory
@@ -116,6 +167,29 @@ class GenCustProd:
                  display_pct = .1,
                  random_seed = 42,
                  data_importer = None):
+        
+        """
+        Generates synthetic customer and product data and provides visualizations based on the generated data.
+
+        Attributes:
+        - num_cust (int): Number of customers to generate (default: 1000).
+        - num_prod (int): Number of products to generate (default: 300).
+        - categories (list): List of product categories (default: ['Clothing', 'Shoes', ...]).
+        - means (list): List of mean prices for each category (default: [30, 40, ...]).
+        - st_dev (list): List of standard deviations for each category's price (default: [10, 10, ...]).
+        - sale_pct (float): Percentage of products on sale (default: 0.2).
+        - display_pct (float): Percentage of products on display (default: 0.1).
+        - random_seed (int): Seed for random number generation (default: 42).
+        - data_importer (DataImporter): Instance of DataImporter to import customer-related data.
+
+        Methods:
+        - gen_customers(): Generates customer information DataFrame.
+        - gen_products(): Generates product information DataFrame.
+        - plot_prod_cat(product_info_df): Plots category distribution based on product information.
+        - plot_customers_gender(customer_info_df): Plots gender distribution based on customer information.
+        - plot_customers_age(customer_info_df): Plots age distribution based on customer information.
+        - plot_states(customer_info_df): Plots state-wise distribution based on customer information.
+        """   
         # initialize variables
         #self.data_saver = DataSaver()
         if data_importer == None:
@@ -134,6 +208,10 @@ class GenCustProd:
         self.customers_df = self.gen_customers()
         self.prod_df = self.gen_products()
         self.plot_prod_cat(self.prod_df)
+        self.plot_customers_gender(self.customers_df)
+        self.plot_customers_age(self.customers_df)
+        self.plot_states(self.customers_df)
+        
         
     def gen_customers(self):
         # number of unique customers who have made purchases
@@ -166,12 +244,23 @@ class GenCustProd:
         }
 
         customers_df = pd.DataFrame(customer_data)
-        save_data_to_csv(customers_df, filename_prefix="customers", directory="Data")
-        return customers_df
+        customers_df['Location']= customers_df['Location'].astype(str).str.zfill(5)
+        file_name = "Data/uszips.csv"
+        zips_df = pd.read_csv(file_name)
+        zips_df_sub = zips_df[['zip','state_name']]
+        zips_df_sub_copy = zips_df_sub.copy()
+        zips_df_sub_copy['zip'] = zips_df_sub_copy['zip'].astype(str).str.zfill(5)
+        
+        customers_with_state = pd.merge(customers_df, zips_df_sub_copy, left_on='Location', right_on='zip', how='left')
+        customers_with_state.drop('Location', axis =1, inplace = True)
+        
+        save_data_to_csv(customers_with_state, filename_prefix="customers", directory="Data")
+        return customers_with_state
     ## Variables to incorporate later ##
     # Customer Lifetime Value (CLV)
     # Customer Segment (Through analysis: high spenders, occasional buyers, loyal customers)
     # Feedback and Ratings
+        
     
     def gen_products(self):
         # set random seed
@@ -225,9 +314,37 @@ class GenCustProd:
         # add visual saving the plot
         
         return plt.show()
-
-
+    
+    def plot_customers_gender(self,customer_info_df):
+        gender_counts = customer_info_df['Gender'].value_counts()
+        plt.figure(figsize=(8,6))
+        gender_counts.plot(kind='bar', color = 'skyblue', edgecolor = 'black')
+        plt.title('Gender Distribution')
+        plt.ylabel('Frequency')
+        # add visual saving the plot
         
+        return plt.show()
+    
+    def plot_customers_age(self, customer_info_df):
+        age_series = customer_info_df['Age']
+        num_bins = 15
+        plt.hist(age_series,bins=num_bins, color = 'skyblue', edgecolor='black')
+        plt.xlabel('Age')
+        plt.ylabel('Frequency')
+        plt.title('Age Distribution')
+        # add visual saving the plot
+        
+        return plt.show()
+    
+    def plot_states(self, customer_info_df):
+        states = customer_info_df['state_name'].value_counts()
+        
+        plt.figure(figsize=(8,6))
+        states.plot(kind='bar', color = 'skyblue', edgecolor = 'black')
+        plt.xlabel('State')
+        plt.title('State Distribution')
+        return plt.show()
+
 class SalesGenerator:
     def __init__(self,
                  #cust_prod_instance,
@@ -237,13 +354,28 @@ class SalesGenerator:
                  start_day = 1,
                  del_previous_sims = False,
                  cust_prod = None):
-                 
+        """
+        Generates synthetic sales transactions based on customer and product information.
+
+        Attributes:
+        - num_periods (int): Number of periods to generate sales data for (default: 365).
+        - start_year (int): Starting year for generating sales data (default: 2022).
+        - start_month (int): Starting month for generating sales data (default: 1).
+        - start_day (int): Starting day for generating sales data (default: 1).
+        - del_previous_sims (bool or list): Flag to delete previous simulations or list of simulation numbers to delete (default: False).
+        - cust_prod (GenCustProd): Instance of GenCustProd to use for customer and product information.
+
+        Methods:
+        - extract_number_from_string(string): Static method to extract numbers from a string.
+        - get_most_recent_simulation_number(directory): Get the most recent simulation number from the specified directory.
+        - save_output_with_sim_number(transactions, transaction_details, simulation_number): Save transactions and transaction details to CSV with simulation number.
+        - gen_sales(): Generate synthetic sales transactions based on provided customer and product information.
+        """        
         # initialize variables
         if cust_prod == None:
             self.cust_prod_instance = GenCustProd()
         else:
             self.cust_prod_instance = cust_prod # allow you to pass in your own instance of customers and products
-           
         #self.data_saver = DataSaver()
         self.num_periods = num_periods
         self.start_year = start_year
@@ -262,9 +394,6 @@ class SalesGenerator:
         self.sales_data = self.gen_sales()
         self.transactions_df = self.sales_data[0]
         self.transactions_details_df = self.sales_data[1]
-        
-        
-
     @staticmethod
     def extract_number_from_string(string):
         # Using regular expression to find the number after 's'
@@ -401,13 +530,17 @@ class SalesGenerator:
                 # Create timestamp for the transaction within the day
                 sale_time = single_date + timedelta(seconds=np.random.randint(86400))  # 86400 seconds in a day
                 transaction_id = str(uuid.uuid4())
+                payment = np.random.choice(['card','gift card','cash'], p=[0.75,0.1,0.15])
+                
+                
 
                 # create a transaction record
                 transaction = {
                     'transaction_id': transaction_id,
                     'customer_id': customer['Customer_ID'],
                     'purchase_time': sale_time,
-                    'total_price': total_price
+                    'total_price': total_price,
+                    'payment': payment
                 }
 
                 # add transaction to list of transactions
@@ -429,18 +562,5 @@ class SalesGenerator:
                 if len(transactions)>= 1000*saving_incrimentor:
                     self.save_output_with_sim_number(transactions,transaction_details, self.simulation_number)
                     saving_incrimentor +=1
-                
-        # save final file
-        # Convert transactions data to a DataFrame
-        #ransactions_df = pd.DataFrame(transactions)
-        # save transactions_df
-        #self.data_saver.save_data_to_csv(transactions_df, filename_prefix="transactions", directory="Data")
         self.save_output_with_sim_number(transactions,transaction_details, self.simulation_number)
-                   
-
-        # Convert transactions_detail data to a DataFrame
-        #transactions_detail_df = pd.DataFrame(transaction_details)
-        # save transactions_details_df
-        #self.data_saver.save_data_to_csv(transactions_detail_df, filename_prefix="transactions_details", directory="Data")
-        
         return 'Finished Sim'#transactions_df, transactions_detail_df

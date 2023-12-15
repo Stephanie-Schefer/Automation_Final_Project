@@ -9,6 +9,10 @@ import random
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta, date
 import os
+import warnings
+
+# Ignore all warnings
+warnings.filterwarnings("ignore")
 
 class DataImporter:
     def __init__(self, file_directory = 'Data', first = 'GenderNeutralNames.csv',last ='LastNames.csv',zips = 'uszips.csv'):
@@ -56,8 +60,13 @@ class DataImporter:
         # get zip code list
         zips = pd.read_csv(file_name)
         continental_zips_df = zips[~zips['state_name'].isin(['Puerto Rico','Virgin Islands'])]
-        continental_zips_df['zip_6'] = continental_zips_df['zip'].apply(lambda x: '{:05}'.format(x)) #astype(str).str.zfill(5)
-        zip_list = list(continental_zips_df.zip_6)
+        # Assuming continental_zips_df is your DataFrame
+        continental_zips_df['zip_6']=continental_zips_df['zip']
+        continental_zips_df_copy = continental_zips_df.copy()
+        continental_zips_df_copy.loc[:, 'zip_6'] = continental_zips_df_copy['zip'].astype(str).str.zfill(5)
+
+ #astype(str).str.zfill(5)
+        zip_list = list(continental_zips_df_copy.zip_6.dropna())
         return zip_list   
     
     
@@ -134,6 +143,10 @@ class GenCustProd:
         self.customers_df = self.gen_customers()
         self.prod_df = self.gen_products()
         self.plot_prod_cat(self.prod_df)
+        self.plot_customers_gender(self.customers_df)
+        self.plot_customers_age(self.customers_df)
+        self.plot_states(self.customers_df)
+        
         
     def gen_customers(self):
         # number of unique customers who have made purchases
@@ -166,12 +179,23 @@ class GenCustProd:
         }
 
         customers_df = pd.DataFrame(customer_data)
-        save_data_to_csv(customers_df, filename_prefix="customers", directory="Data")
-        return customers_df
+        customers_df['Location']= customers_df['Location'].astype(str).str.zfill(5)
+        file_name = "Data/uszips.csv"
+        zips_df = pd.read_csv(file_name)
+        zips_df_sub = zips_df[['zip','state_name']]
+        zips_df_sub_copy = zips_df_sub.copy()
+        zips_df_sub_copy['zip'] = zips_df_sub_copy['zip'].astype(str).str.zfill(5)
+        
+        customers_with_state = pd.merge(customers_df, zips_df_sub_copy, left_on='Location', right_on='zip', how='left')
+        customers_with_state.drop('Location', axis =1, inplace = True)
+        
+        save_data_to_csv(customers_with_state, filename_prefix="customers", directory="Data")
+        return customers_with_state
     ## Variables to incorporate later ##
     # Customer Lifetime Value (CLV)
     # Customer Segment (Through analysis: high spenders, occasional buyers, loyal customers)
     # Feedback and Ratings
+        
     
     def gen_products(self):
         # set random seed
@@ -225,6 +249,37 @@ class GenCustProd:
         # add visual saving the plot
         
         return plt.show()
+    
+    def plot_customers_gender(self,customer_info_df):
+        gender_counts = customer_info_df['Gender'].value_counts()
+        plt.figure(figsize=(8,6))
+        gender_counts.plot(kind='bar', color = 'skyblue', edgecolor = 'black')
+        plt.title('Gender Distribution')
+        plt.ylabel('Frequency')
+        # add visual saving the plot
+        
+        return plt.show()
+    
+    def plot_customers_age(self, customer_info_df):
+        age_series = customer_info_df['Age']
+        num_bins = 15
+        plt.hist(age_series,bins=num_bins, color = 'skyblue', edgecolor='black')
+        plt.xlabel('Age')
+        plt.ylabel('Frequency')
+        plt.title('Age Distribution')
+        # add visual saving the plot
+        
+        return plt.show()
+    
+    def plot_states(self, customer_info_df):
+        states = customer_info_df['state_name'].value_counts()
+        
+        plt.figure(figsize=(8,6))
+        states.plot(kind='bar', color = 'skyblue', edgecolor = 'black')
+        plt.xlabel('State')
+        plt.title('State Distribution')
+        return plt.show()
+
 
 
         
@@ -243,7 +298,6 @@ class SalesGenerator:
             self.cust_prod_instance = GenCustProd()
         else:
             self.cust_prod_instance = cust_prod # allow you to pass in your own instance of customers and products
-           
         #self.data_saver = DataSaver()
         self.num_periods = num_periods
         self.start_year = start_year
@@ -401,13 +455,17 @@ class SalesGenerator:
                 # Create timestamp for the transaction within the day
                 sale_time = single_date + timedelta(seconds=np.random.randint(86400))  # 86400 seconds in a day
                 transaction_id = str(uuid.uuid4())
+                payment = np.random.choice(['card','gift card','cash'], p=[0.75,0.1,0.15])
+                
+                
 
                 # create a transaction record
                 transaction = {
                     'transaction_id': transaction_id,
                     'customer_id': customer['Customer_ID'],
                     'purchase_time': sale_time,
-                    'total_price': total_price
+                    'total_price': total_price,
+                    'payment': payment
                 }
 
                 # add transaction to list of transactions
